@@ -1,4 +1,4 @@
-package com.caraguna.kamus.investasi
+package com.caraguna.kamus.trading
 
 import io.flutter.embedding.android.FlutterActivity
 

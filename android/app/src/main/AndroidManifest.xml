@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.caraguna.kamus.investasi">
+    package="com.caraguna.kamus.trading">
    <application
         android:label="Kamus Investasi"
         android:name="${applicationName}"
