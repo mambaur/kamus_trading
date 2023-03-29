@@ -863,6 +863,114 @@
             "category": "trading",
             "created_at": "2023-03-27",
             "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hard Currency",
+            "full_title": null,
+            "description": "Istilah untuk menyebut mata uang yang nilainya mempengaruhi nilai mata uang lain. Hal ini terjadi karena negara asalnya termasuk negara maju dengan sistem pemerintahan yang kuat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hawkish",
+            "full_title": null,
+            "description": "Pernyataan pejabat bank sentral yang merujuk kecenderungan melancarkan atau mempertahankan kebijakan moneter ketat, seperti menaikkan suku bunga, mengurangi stimulus moneter, dan lain sebagainya. Lawan kata dari Hawkish adalah Dovish, yaitu kebijakan moneter longgar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hedge Fund",
+            "full_title": null,
+            "description": "Perusahaan pengelola aset investasi yang menghimpun dana dari masyarakat (sebagai investor) untuk dikelola secara privat, bebas memanfaatkan leverage tinggi, maupun mengalokasikan dana kelolaan ke berbagai aset berisiko seperti futures atau options. Tujuan Hedge Fund adalah memperoleh imbal hasil tertentu, yang kemudian dibagi antara pihak Hedge Fund dengan investor.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hedging",
+            "full_title": null,
+            "description": "Upaya yang dilakukan investor atau trader untuk membatasi kerugian di pasar keuangan, dengan melakukan transaksi jual dan beli sekaligus pada suatu aset finansial yang sama.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Ichimoku Kinko Hyo",
+            "full_title": null,
+            "description": "Salah satu indikator teknikal yang berfungsi untuk mengetahui tren sekaligus menemukan sinyal trading potensial hanya dalam sekali pandang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Indeks Saham",
+            "full_title": null,
+            "description": "Indikator yang menggambarkan performa pasar saham pada periode tertentu. Dengan adanya indeks, tren harga saham saat ini dapat dipantau. Kenaikan sebagian besar harga saham yang tergabung dalam suatu indeks bisa mendongkrak nilai indeks tersebut.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Indikator Ekonomi",
+            "full_title": null,
+            "description": "Data statistik yang digunakan oleh analis dan pelaku pasar untuk mengetahui kondisi ekonomi terkini maupun memproyeksikan peluang ekonomi di masa depan. Indikator ekonomi juga dapat digunakan untuk menentukan sehat-tidaknya perekonomian suatu negara.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Indikator Teknikal",
+            "full_title": null,
+            "description": "Alat yang dibuat berdasarkan perhitungan matematis atas histori harga, volume, atau minat pasar terhadap sebuah instrumen investasi atau kontrak keuangan. Penggunaan indikator teknikal bertujuan untuk memprediksi pergerakan harga di masa depan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Inflasi",
+            "full_title": null,
+            "description": "Suatu kondisi yang menggambarkan kenaikan harga barang dan jasa secara terus menerus dalam suatu periode tertentu di suatu wilayah. Lawan kata Inflasi adalah Deflasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Initial Margin",
+            "full_title": null,
+            "description": "Deposit awal yang perlu disetorkan oleh trader agar dapat mulai bertransaksi. Deposit-deposit selanjutnya cukup disebut sebagai margin dan berfungsi agar trader bisa mempertahankan posisi tradingnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "IB",
+            "full_title": "Introducing Broker",
+            "description": "Sistem kerjasama yang paling sederhana antara broker dengan pihak ketiga untuk memasarkan produk dan merekrut klien (nasabah). Tugas utama pihak ketiga (IB) yaitu mengumpulkan klien untuk broker. Sebagai gantinya, IB akan memperoleh imbalan (reward).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Investor",
+            "full_title": null,
+            "description": "Sebutan untuk sekelompok orang yang menempatkan dananya dalam instrumen investasi jangka panjang seperti real estate (properti), industri skala besar maupun kecil, atau berinvestasi di pasar keuangan untuk ditahan dalam jangka panjang (di atas 3 tahun).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
         }
     ]
 }
