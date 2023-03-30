@@ -971,6 +971,231 @@
             "category": "trading",
             "created_at": "2023-03-27",
             "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "January Effect",
+            "full_title": null,
+            "description": "Anomali yang terjadi ketika harga-harga saham naik pada bulan Januari. Pelaku pasar membeli saham-saham pada harga murah sebelum Januari, lalu menjualnya setelah harga naik.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "Jawboning",
+            "full_title": null,
+            "description": "Istilah bahasa Inggris untuk menyebut pernyataan yang dikeluarkan oleh pejabat otoritas moneter (bank sentral) suatu negara dengan tujuan untuk melemahkan nilai mata uangnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "Joint Account",
+            "full_title": null,
+            "description": "Akun rekening yang dikelola bersama, misalnya rekening tabungan atau giro. Joint Account biasa digunakan oleh pasangan suami istri, perusahaan, atau dua pihak yang bekerjasama.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "JPY",
+            "full_title": null,
+            "description": "Sebutan untuk mata uang Jepang (Yen Jepang, Japanese Yen). Yen Jepang juga sering disebut sebagai Safe Haven bersama CHF, karena ketika pasar bearish, para investor Jepang merepatriasi sejumlah uang yang mereka investasikan di luar Jepang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kalender Forex",
+            "full_title": "Kalender Ekonomi",
+            "description": "Kalender yang memuat jadwal rilis berbagai data ekonomi maupun peristiwa penting terkait kebijakan moneter dan fiskal dari negara-negara yang mata uangnya diperdagangkan dalam pasar forex.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kebijakan Ekonomi",
+            "full_title": null,
+            "description": "Keputusan praktis atau perundangan yang dikeluarkan oleh otoritas di suatu negara dalam bidang ekonomi. Dalam ekonomi, terdapat dua jenis kebijakan, yaitu kebijakan moneter dan kebijakan fiskal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kebijakan Fiskal",
+            "full_title": null,
+            "description": "Kebijakan yang dibuat oleh pemerintah dan berkaitan dengan anggaran pendapatan dan belanja negara (APBN). Termasuk dalam cakupan kebijakan fiskal antara lain perpajakan, obligasi, gaji PNS, subsidi, dan lain sebagainya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kebijakan Moneter",
+            "full_title": "Monetary Policy",
+            "description": "Kebijakan terkait jumlah uang beredar, biasanya diambil oleh Bank Sentral atau Otoritas Moneter suatu negara. Kebijakan Moneter secara umum terbagi menjadi Kebijakan Moneter Ketat (Tight Monetary Policy) dan Kebijakan Moneter Longgar (Loose Monetary Policy).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kontraksi",
+            "full_title": "Contraction",
+            "description": "Terjemahan dari istilah bahasa Inggris 'Contraction' atau 'Contracted', artinya perlambatan atau penurunan. Istilah kontraksi digunakan untuk menggambarkan terjadinya perlambatan perekonomian secara umum, bisa pada suatu perusahaan, atau dalam satu sektor ekonomi tertentu. Lawan kata dari Kontraksi adalah Ekspansi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Likuidasi",
+            "full_title": null,
+            "description": "Penutupan posisi trading yang masih terbuka oleh trader ataupun sistem secara otomatis. Dalam dunia investasi, likuidasi terjadi ketika seorang investor memutuskan untuk menutup posisinya pada sebuah aset/instrumen.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Likuiditas",
+            "full_title": null,
+            "description": "Ketersediaan dana di sebuah perusahaan, atau ketersediaan dana yang memperdagangkan suatu aset di pasar keuangan. Dalam dunia trading, likuiditas juga bisa diartikan sebagai kemampuan sebuah aset diperdagangkan di pasar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Limit Order",
+            "full_title": "Limit-Entry Order",
+            "description": "Jenis order dalam trading forex dimana trader melakukan entry Buy di bawah harga pasar sekarang, atau Sell di atas harga pasar sekarang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Liquidity Provider",
+            "full_title": "Penyedia Likuiditas",
+            "description": "Lembaga atau institusi finansial di dalam jaringan broker dengan pasar forex, di mana setiap agensi mereka akan terus-menerus mentransmisikan harga permintaan dan penawaran sesuai dengan harga pasar terkini.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Live Account, Real Account, Akun Live, Akun Riil",
+            "full_title": null,
+            "description": "Jenis akun trading dimana trader harus menyetorkan sejumlah dana sebagai modal awal (Initial Margin) sebelum mulai trading. Namun sebelum trading di akun riil, trader disaranka berlatih di akun Demo terlebih dahulu untuk melatih kondisi psikologis.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Long Position",
+            "full_title": null,
+            "description": "Tindakan mengambil posisi BUY (membeli suatu aset) ketika pasar sedang Bullish. Long position artinya trader atau investor ingin mendapatkan keuntungan dari kenaikan nilai suatu aset. Kebalikan dari Long Position adalah Short Position.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Lot",
+            "full_title": null,
+            "description": "Standar ukuran per transaksi di pasar keuangan. Di Bursa Efek Indonesia, 1 lot = 100 lembar saham. Dalam trading forex, 1 lot standar sama dengan 100,000 unit. Ada pula ukuran trading yang lebih kecil, antara lain lot mini, lot mikro, dan lot nano.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "MACD",
+            "full_title": "Moving Average Convergence Divergence",
+            "description": "Singkatan dari Moving Average Convergence Divergence, yaitu indikator teknikal yang berfungsi menunjukkan arah tren dan momentum harga aset di pasar keuangan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Margin",
+            "full_title": null,
+            "description": "Sejumlah dana yang perlu disetorkan trader sebagai jaminan agar bisa bertransaksi pada broker yang memberikan fasilitas leverage bagi nasabahnya. Terdapat dua jenis margin, yaitu Free Margin dan Used Margin.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Margin Call",
+            "full_title": null,
+            "description": "Fasilitas broker yang memperingatkan trader jika ekuitas akun trading sudah tidak mencukupi nilai margin yang dibutuhkan untuk membuka posisi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Martingale",
+            "full_title": null,
+            "description": "Strategi trading berdasarkan teori probabilitas, dimana trader forex akan menggandakan posisi tradingnya apabila harga bergerak ke arah yang berlawanan dengan prediksi awal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Micro Lot",
+            "full_title": null,
+            "description": "Ukuran lot bernilai seperseratus dari lot standar, yaitu USD 1,000. Dengan leverage 1:100, margin yang dibutuhkan hanya USD 10.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Money Flow Index",
+            "full_title": null,
+            "description": "Indikator Oscillator yang aplikasinya mirip Relative Strength Index (RSI). Dengan menyertakan faktor besaran volume, indikator MFI lebih mencerminkan dinamika pergerakan pasar yang tidak hanya terpatok pada harga saja.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "MM",
+            "full_title": "Money Management",
+            "description": "Pengelolaan dana trading yang bertujuan mengoptimalkan keuntungan dan membatasi risiko, serta menjaga modal tidak cepat ludes. Dengan demikian, trader mampu bertahan meski terjadi kerugian.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Moving Average",
+            "full_title": null,
+            "description": "Indikator teknikal bersifat overlay dan berbentuk garis yang ditumpukkan di atas chart. Semakin panjang periode Moving Average, maka pergerakan garis akan makin lambat (lagging) dibandingkan harga.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Moving Average",
+            "full_title": null,
+            "description": "Indikator teknikal bersifat overlay dan berbentuk garis yang ditumpukkan di atas chart. Semakin panjang periode Moving Average, maka pergerakan garis akan makin lambat (lagging) dibandingkan harga.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
         }
     ]
 }
