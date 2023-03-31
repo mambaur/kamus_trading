@@ -1196,6 +1196,339 @@
             "category": "trading",
             "created_at": "2023-03-27",
             "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NASDAQ",
+            "full_title": null,
+            "description": "Bursa saham AS yang mayoritas emitennya berasal dari sektor teknologi. Pergerakan indeks NASDAQ cenderung mudah terpengaruh oleh isu-isu seputar teknologi. Berdasarkan kapitalisasinya, NASDAQ merupakan bursa saham terbesar kedua dunia setelah bursa saham New York (NYSE).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NDD",
+            "full_title": null,
+            "description": "Jenis broker forex yang menyalurkan order klien ke pasar (Electronic Communication Network/ECN) atau menghubungkan order ke broker ECN yang lebih besar (Straight Through Processing/STP).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "Neckline",
+            "full_title": null,
+            "description": "Garis yang membatasi area bawah pada pola Head and Shoulders. Dalam pola Inverted Head and Shoulders, Neckline menjadi garis yang membatasi area atas. Neckline menjadi acuan penting untuk entry dengan pola Head and Shoulders.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "New Home Sales",
+            "full_title": null,
+            "description": "Data penjualan rumah baru di AS yang bisa berada dalam tahap konstruksi apapun, baik itu belum dimulai, sedang dibangun, atau sudah selesai dbangun. New Home Sales biasa digunakan sebagai salah satu indikator dalam mengukur kondisi pasar properti di Amerika Serikat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "Nikkei",
+            "full_title": null,
+            "description": "Disebut sebagai Nikkei 225 (N225), indeks ini terdiri dari kumpulan saham terdaftar di Bursa Efek Tokyo. Nikkei mengumpulkan 225 saham Blue Chip dari 225 perusahaan terkemuka di Jepang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "No Deposit Bonus",
+            "full_title": "Bonus Tanpa Deposit",
+            "description": "Penawaran broker forex yang memberikan sejumlah dana kepada trader sebagai deposit akun. Aturan pada No Deposit Bonus terkait syarat penarikan dan masa berlaku promo sangat penting diperhatikan oleh trader.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NFP",
+            "full_title": "Non Farm Payroll",
+            "description": "Data perubahan jumlah ketenagakerjaan AS yang mengecualikan sektor pemerintahan (PNS), pegawai rumah tangga, non-profit atau nirlaba (LSM), dan pertanian. NFP AS mencerminkan kondisi tenaga kerja di sektor komersil dan industri di AS, serta berdampak tinggi pada pergerakan Dolar AS karena menjadi salah satu dasar The Fed dalam menuntukan kebijakan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NYMEX",
+            "full_title": "New York Mercantile Exchange",
+            "description": "Bursa komoditas berjangka terbesar di dunia yang berbasis di New York. Pada dasarnya, NYMEX merupakan singkatan dari New York Mercantile Exchange. Perusahaan di balik NYMEX adalah NYMEX Holdings, Inc. yang didirikan sejak tahun 1882. Saat ini, perusahaan tersebut sudah melantai di bursa saham New York (NYSE) dengan kode emiten NMX. NYMEX Holdings, Inc. juga sudah terdaftar di badan pengawas CFTC.Beragam komoditas yang diperdagangkan di NYMEX meliputi Aluminum, Batubara, Tembaga, Minyak Mentah, Tenaga listrik, Bensin, Emas, Minyak Bakar, Gas Alam, Paladium, Platina, Propana, dan Perak.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NYSE",
+            "full_title": "New York Stock Exchange",
+            "description": "Berlokasi di Wall Street, NYSE atau New York Stock Exchange adalah Bursa Efek New York dengan jumlah saham perusahaan yang terdaftar mencapai 2,400. NYSE adalah bursa efek terbesar di dunia jika dilihat dari total kapitalisasi pasar perusahaan-perusahaannya. Saham-saham yang diperdagangkan di NYSE memiliki indeks tergabung dalam NYSE Composite. Kode NYSE di bursa perdagangan adalah NYA.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NZD",
+            "full_title": "New Zealand Dollar",
+            "description": "NZD atau New Zealand Dollar adalah mata uang Selandia Baru. Bersama dengan Dolar Australia, mata uang ini disebut sebagai mata uang Antipodean. Pergerakan harga NZD cenderung dipengaruhi oleh harga susu karena New Zealand adalah eksportir produk olahan susu terbesar di dunia.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "OCO Order",
+            "full_title": "One-Cancel-the-Other",
+            "description": "Merupakan jenis order dalam trading forex. Pada dasarnya, OCO memungkinkan trader untuk menempatkan order dengan harga dan durasi berbeda di atas dan di bawah harga saat ini. Ketika salah satu order dieksekusi, maka order satunya akan dibatalkan. Jenis order ini tidak tersedia di semua broker.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Offer",
+            "full_title": null,
+            "description": "Harga yang ditawarkan dalam suatu transaksi di pasar finansial. Disebut juga sebagai Ask Price atau harga di mana trader akan membeli (Buy) mata uang dasar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "OP",
+            "full_title": "Open Position",
+            "description": "Membuka transaksi di platform trading. Pada umumnya, open posisi ada dua jenis, yakni Long Position (posisi Buy) dan Short Position (posisi Sell). Namun ada juga pembukaan posisi pending (tertunda) yang memungkinkan trader untuk menetapkan target harga terlebih dulu sebelum order tereksekusi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Options",
+            "full_title": null,
+            "description": "Dalam perdagangan di pasar finansial, Options bisa merujuk pada kependekan dari Stock Options, yaitu sebuah kontrak yang memberikan hak kepada investor untuk membeli atau menjual suatu saham pada harga dan tanggal tertentu, tetapi mereka tak wajib melaksanakan hak tersebut.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Order",
+            "full_title": null,
+            "description": "Instruksi untuk mengeksekusi perdagangan forex pada level harga tertentu di sistem platform trading. Terdapat dua jenis order utama yaitu Buy dan Sell, disamping jenis-jenis order pelengkap seperti Stop Order, Limit Order, dan OCO Order.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "oto order",
+            "full_title": "One-Triggers-the-Other",
+            "description": "Salah satu jenis order pelengkap di platform trading forex. Kebalikan dari OCO Order, penempatan transaksi dengan OTO melibatkan 2 posisi trading dengan harga dan durasi berbeda. Ketika salah satu ordernya dieksekusi, maka order satunya akan ikut terbuka secara otomatis.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Overheating",
+            "full_title": null,
+            "description": "Dalam konteks ekonomi, overheating adalah situasi ketika kapasitas produksi di suatu negara tak mampu memenuhi permintaan agregat. Dengan kata lain, sisi produksi tak mampu mengejar pertumbuhan sisi konsumsi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Overnight",
+            "full_title": null,
+            "description": "Posisi trading yang terbuka hingga keesokan harinya. Secara teknis, overnight position mencatat posisi yang masih terbuka saat melewati tengah malam berdasarkan waktu server broker.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Oversold, Overbought",
+            "full_title": null,
+            "description": "Overbought merupakan kondisi dimana harga naik dan mencapai level tertentu sehingga mengalami jenuh beli. Oversold adalah situasi ketika harga turun hingga level tertentu dan mengalami keadaan jenuh jual.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Overtrading, Over Trading, Overtrade",
+            "full_title": null,
+            "description": "Melakukan trading secara berlebihan, baik dengan membuka satu posisi trading dalam jumlah lot besar, atau membuka terlalu banyak posisi dalam satu waktu. Disebabkan oleh emosi trading yang kurang stabil, overtrading disebabkan oleh salah satu atau kedua skenario berikut: Serakah mengejar profit, Bernafsu mengganti kerugian dari posisi loss.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pair",
+            "full_title": null,
+            "description": "Pasangan dua mata uang yang terdiri dari mata uang suatu negara dengan mata uang negara lain. Nilai pasangan mata uang merupakan nilai tukar mata uang terhadap mata uang negara lain. Dalam pair GBP/USD misalnya, mencerminkan nilai tukar GBP (Pound Inggris) terhadap USD (Dolar AS).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pair Mayor",
+            "full_title": null,
+            "description": "Pasangan mata uang asing yang paling sering diperdagangkan di pasar forex.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "PAMM",
+            "full_title": "Percentage Allocation Module Management",
+            "description": "Percentage Allocation Module Management, merupakan skema investasi yang menghubungkan investor dengan trader profesional dengan sistem keuntungan bagi hasil.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Parabolic SAR",
+            "full_title": null,
+            "description": "Indikator teknikal yang diciptakan oleh J Welles Wilder dan tampil sebagai titik-titik yang berlokasi di atas atau di bawah harga. Parabolic SAR termasuk dalam keluarga indikator tren harga, dan perpindahan sinyal titiknya dianggap sebagai penunjuk reversal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Parity",
+            "full_title": "Paritas",
+            "description": "Terminologi ekonomi secara umum: kesetaraan harga, nilai tukar, daya beli, atau upah. Terminologi forex secara khusus: kondisi ketika nilai tukar dua mata uang berada pada posisi 1:1.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pegging",
+            "full_title": null,
+            "description": "Patokan yang digunakan oleh otoritas moneter untuk menentapkan batas maksimal atau minimal nilai tukar suatu mata uang terhadap mata uang lainnya. Contohnya, Swiss pernah menentukan pegging 1 EUR = 1.20 CHF. Nilai tukar yang dipegging (pegged exchange rate) dapat disebut sebagai fixed exchange rate. Untuk mengaplikasikannya, bank sentral harus mengatur peredaran uang serta memonitor Supply dan Demand secara ketat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pending Order",
+            "full_title": null,
+            "description": "Jenis order dalam trading forex yang menentukan entry di level berbeda dari harga sekarang. Sehingga, order akan ter-pending dulu sebelum harga menyentuh level entry yang ditargetkan dan memicu eksekusi order. Empat jenis pending order dalam forex yang paling umum adalah: Buy Limit: Buy di level lebih rendah dari harga sekarang. Sell Limit: Sell di level lebih tinggi dari harga sekarang. Buy  Sell Stop: Sell di level lebih rendah dari harga sekarang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Penny Stock",
+            "full_title": null,
+            "description": "Julukan untuk saham berharga sangat murah. Penny Stock di AS biasanya adalah saham-saham berharga kurang dari USD5 per lembar. Sementara jika di Indonesia, saham-saham yang masuk dalam jenis Penny Stock berharga Rp50 per lembar atau lebih rendah.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pip, Pips",
+            "full_title": null,
+            "description": "Satuan terkecil untuk mewakili perubahan harga dalam trading forex. Apabila nilai GBP/USD berubah dari 1.2688 ke 1.2687, maka artinya terdapat penurunan nilai sebesar 1 pip.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pipette",
+            "full_title": null,
+            "description": "Satuan terkecil harga pasangan mata uang, dengan nilai sepersepuluh pip yang mewakili perubahan harga dalam trading forex. Pipette biasanya muncul sebagai digit ke-5 setelah tanda desimal dalam suatu pair (digit ke-3 untuk pair-pair JPY), mengikuti pip yang muncul sebagai digit ke-4 setelah tanda desimal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Platform Trading",
+            "full_title": null,
+            "description": "Fasilitas trading yang memungkinkan trader mengatur dan mengeksekusi order secara real-time di pasar forex. Platform trading biasanya dipasang sebagai aplikasi di PC atau Smartphone, bisa pula dibuka sebagai halaman web di browser. Fasilitas ini wajib disediakan broker forex untuk para tradernya. Selain memiliki fitur untuk mengatur dan memasang order, platform juga umum dilengkapi dengan chart harga real-time dan berbagai tool analisa. Contoh platform yang umum ditawarkan adalah MetaTrader (dari MetaQuotes), cTrader (dari SpotWare), dan jenis platform yang dikembangkan sendiri oleh broker (proprietary).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Point",
+            "full_title": null,
+            "description": "Sebutan lain untuk pipette yang merupakan satuan terkecil dalam perubahan harga. Point bernilai sepersepuluh lebih kecil dari pip dan bisa dilihat pada pair-pair yang diperdagangkan di platform trading dengan sistem pricing 5 digit di belakang tanda desimal (3 digit pada pair-pair JPY).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Portofolio",
+            "full_title": null,
+            "description": "Kombinasi aset finansial yang bisa mencakup saham, obligasi (bonds), komoditas, dan aset lainnya. Dimiliki oleh seorang investor, manajer investasi, perusahaan, atau lembaga finansial lainnya, portofolio biasanya diklasifikasikan menurut risikonya: rendah (konservatif), sedang (moderat), atau tinggi (agresif).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Price Action",
+            "full_title": null,
+            "description": "Pergerakan harga suatu aset atau suatu pasangan mata uang. Dalam praktiknya, Price Action menjadi istilah khusus untuk metode analisa teknikal berdasarkan pergerakan harga di masa lampau. Trader berupaya menemukan pola dalam pergerakan harga yang sepintas tampak acak, sehingga Price Action sering dikaitkan dengan analisa pola candlestick. Namun, tak jarang pula Price Action dianggap mencakup analisa price pattern.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Profit/Loss, P/L, Gain/Loss",
+            "full_title": null,
+            "description": "Salah satu kolom dalam histori akun di platform trading. Profit/Loss secara khusus menampilkan besarnya keuntungan atau kerugian untuk posisi trading yang sudah ditutup (closed position).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Public Debt",
+            "full_title": null,
+            "description": "Data ekonomi yang melaporkan utang pemerintah. Jenis utang lain yang diperhatikan dalam publikasi data ekonomi adalah utang swasta, yang juga disebut sebagai Corporate Debt atau Private Debt.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pullback",
+            "full_title": null,
+            "description": "Kondisi dimana harga bergerak berlawanan dari trend utama untuk sementara waktu. Apabila harga sedang uptrend, maka pullback adalah penurunan singkat. Bila harga sedang downtrend, maka pullback adalah kenaikan singkat sebelum harga kembali turun. Pullback juga kerap diartikan sebagai koreksi atau Retracement.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
         }
     ]
 }
