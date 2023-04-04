@@ -1,1795 +1,1957 @@
 {
-  "data": [
-    {
-      "alphabet": "A",
-      "title": "Above the market",
-      "full_title": null,
-      "description": "Adalah order untuk menjual aset yang dimiliki di atas harga pasar. Katakanlah harga saham perusahaan ABC hari ini sekitar USD20 per lembar saham. Karena tidak mau rugi, si pemegang saham akan melakukan order bersifat Above The Market, dengan harga USD25 per lembar saham.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Acceleration Theory",
-      "full_title": null,
-      "description": "Adalah hubungan antara tingkat konsumsi dengan investasi modal. Jika permintaan barang konsumsi meningkat, maka permintaan mesin produksi dan investasi modal yang berhubungan juga meningkat.",
-      "category": "investasi",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Accomodation Trading",
-      "full_title": null,
-      "description": "Termasuk aktivitas trading ilegal karena satu pedagang mengakomodasi yang lain dengan memasukkan order pada harga yang tidak kompetitif.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Account Balance",
-      "full_title": null,
-      "description": "Adalah jumlah dana dalam rekening trading klien yang tersimpan di broker. Jika tidak ada posisi terbuka, Balance adalah jumlah asli dana trader. Namun jika ada posisi terbuka, balance yang ada harus dikurangi equity.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Account Statement",
-      "full_title": null,
-      "description": "Laporan berkala dari broker yang berisi tentang status transaksi jual beli seorang nasabah, berikut biaya bulanan maupun keuntungan yang didapatkannya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Account",
-      "full_title": "Akun",
-      "description": "Data pembukuan berisi transaksi klien/nasabah/trader. Secara umum, akun akan mencantumkan saldo, histori trading, profit dan loss, serta Equity (modal yang dimiliki).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "ADX",
-      "full_title": "Average Directional Index Movement",
-      "description": "Salah satu indikator teknikal untuk mengetahui kekuatan tren yang sedang berlangsung di pasar, serta kapan kemungkinan suatu tren akan berubah.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Analisa Fundamental",
-      "full_title": "Analisis Fundamental",
-      "description": "Cara menganalisa pergerakan harga aset di pasar finansial berdasarkan data dan berita ekonomi tertentu. Dalam forex, analisa fundamental berkaitan dengan berita yang mempengaruhi nilai tukar mata uang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Analisa Teknikal",
-      "full_title": "Analisis Teknikal",
-      "description": "Cara menganalisa pergerakan harga suatu aset di pasar finansial menggunakan perangkat statistik, seperti grafik (bar, line, atau candlestick) dan rumus matematis.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Antipodean",
-      "full_title": null,
-      "description": "Istilah untuk menyebut hal-hal yang berhubungan dengan Australia dan New Zealand. Mata uang Antipodean berarti AUD (Australian Dollar) dan NZD (New Zealand Dollar).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Apresiasi",
-      "full_title": null,
-      "description": "Peningkatan nilai suatu mata uang secara terus menerus terhadap mata uang lain. Ketika sebuah mata uang terapresiasi, barang-barang impor cenderung lebih murah. Sebaliknya, barang-barang ekspor cenderung lebih mahal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Arbitrage",
-      "full_title": "Arbitrase",
-      "description": "Dalam konteks pasar finansial, arbitrase adalah strategi trading dengan memanfaatkan perbedaan harga antar instrumen di dua pasar berbeda. Dalam forex, arbitrase adalah strategi untuk mengambil keuntungan dari perbedaan harga antar instrumen di dua broker berbeda.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Aset",
-      "full_title": null,
-      "description": "Segala sesuatu yang dapat dimiliki oleh perusahaan atau individu sebagai wahana investasi, baik berupa aset riil maupun aset finansial.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Ask Price",
-      "full_title": null,
-      "description": "Disebut juga Offer, yaitu harga yang ditawarkan dalam penjualan suatu aset keuangan. Dalam forex, Ask Price adalah harga di mana Anda akan membeli (buy) mata uang dasar.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "AUD",
-      "full_title": "Aussie",
-      "description": "Istilah untuk menyebut Dolar Australia (AUD, Australian Dollar). Sebagai salah satu Dolar komoditas, fluktuasi AUD dipengaruhi oleh hasil produksi dalam negeri.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "A",
-      "title": "Averaging",
-      "full_title": null,
-      "description": "Menambah (membuka) posisi trading baru ketika sudah mempunyai satu atau beberapa posisi Floating positif. Teknik Averaging juga disebut Anti-Martingale yang seringkali dilakukan di pasar forex serta saham.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Back Office",
-      "full_title": null,
-      "description": "Salah satu divisi dalam perusahaan broker yang bertugas memproses transaksi keuangan di luar departemen Dealing Room, termasuk mengurus pencatatan dan pembayaran pada klien.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Backwardation",
-      "full_title": null,
-      "description": "Kondisi dimana harga suatu aset finansial di pasar spot lebih tinggi ketimbang harga kontrak futures atau forward saat jatuh tempo.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bail Out",
-      "full_title": null,
-      "description": "Suatu injeksi dana segar nan likuid yang diberikan kepada entitas bangkrut atau hampir bangkrut (contohnya bank atau perusahaan).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Balance of Payment",
-      "full_title": null,
-      "description": "Data ekonomi yang berisi total nilai dana masuk dan keluar suatu negara dalam suatu periode yang mencakup Trade Balance dan Current Account.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Balance Sheet",
-      "full_title": null,
-      "description": "Laporan yang wajib disusun oleh suatu entitas bisnis/perusahaan untuk menggambarkan kekayaan, kewajiban, serta modal di akhir periode akuntansi perusahaan sebenarnya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Central Bank",
-      "full_title": "Bank Sentral",
-      "description": "Lembaga yang diberi kewenangan oleh pemerintah suatu negara untuk menangani kebijakan moneter dan stabilitas pasar finansial di negara tersebut, contohnya Bank Indonesia.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bappebti",
-      "full_title": null,
-      "description": "Kepanjangan dari Badan Pengawas Perdagangan Berjangka Komoditi, yakni unit eselon I pada Kementerian Perdagangan Indonesia yang bertugas melaksanakan pembinaan, pengaturan dan pengawasan kegiatan perdagangan berjangka serta pasar fisik dan jasa.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Base Currency",
-      "full_title": null,
-      "description": "Mata uang dasar yang terletak di depan dalam penulisan pasangan mata uang. Contoh Base Currency dalam pair EURUSD adalah Euro.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bearish",
-      "full_title": null,
-      "description": "Merupakan lawan kata dari Bullish. Menunjukkan pelemahan harga secara terus menerus selama periode waktu tertentu. Dalam forex, pasar Bearish disebut juga Downtrend dan seringkali disimpulkan sebagai sinyal Sell.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Benefit",
-      "full_title": null,
-      "description": "Istilah bahasa Inggris yang bisa diterjemahkan sebagai Manfaat (Benefit of Investment: Manfaat Investasi), atau Tunjangan/Subsidi (Jobless Benefits: Tunjangan Pengangguran).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bid Price",
-      "full_title": null,
-      "description": "Harga permintaan atas suatu aset keuangan. Dalam trading forex, Bid Price adalah harga di mana Anda akan menjual (sell) mata uang dasar. Dalam hal ini, harga Bid selalu lebih rendah dari harga Offer/Ask.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Black Swan",
-      "full_title": null,
-      "description": "Peristiwa yang terjadi secara tiba-tiba dan berdampak besar bahkan irasional akibat reaksi pasar finansial yang tidak proporsional.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bollinger Bands",
-      "full_title": null,
-      "description": "Salah satu indikator teknikal yang bersifat overlay pada platform trading. Bollinger Bands merupakan hasil pengembangan Moving Average. Garis tengah BB (middle band) adalah SMA-20, sedangkan garis atas dan garis bawah (Upper dan Lower Band) adalah deviasi Middle Band.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bonds",
-      "full_title": null,
-      "description": "Disebut juga Obligasi, yakni janji tertulis untuk membayar sejumlah uang (pokok pinjaman) pada tanggal tertentu di kemudian hari (jatuh tempo) beserta bunga pinjaman (yield) berdasarkan suku bunga yang telah disepakati di awal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Breakout",
-      "full_title": null,
-      "description": "Kondisi harga yang berhasil menembus area konsolidasi suatu aset. Breakout dalam forex pada dasarnya adalah penembusan harga dari level penting, seperti harga tertinggi (High) atau terendah (Low), Support Resistance, Supply atau Demand Area, hingga level psikologis.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Brexit",
-      "full_title": null,
-      "description": "Gabungan kata 'Britain' dan 'Exit' yang merujuk pada rencana Britania Raya (Inggris) untuk melepaskan diri dari Uni Eropa. Berita tentang Brexit cenderung akan menggerakkan GBP.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Broker",
-      "full_title": null,
-      "description": "Broker adalah orang atau perusahaan yang menjadi perantara transaksi antara investor atau konsumen dengan pasar modal. Broker memiliki lebih banyak pengalaman dan pengetahuan bertransaksi. Untuk transaksi komersial, terutama yang melibatkan barang bernilai tinggi seperti emas, perak, dan dokumen penting melalui internet, akan lebih aman didukung oleh layanan broker.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Broker Forex",
-      "full_title": null,
-      "description": "Adalah perusahaan, institusi, agen, ataupun individu yang bertugas mempertemukan pihak penjual dan pembeli. Broker forex secara khusus artinya perusahaan yang menghubungkan trader dengan pasar interbank untuk bertrading forex.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Budget",
-      "full_title": null,
-      "description": "Adalah anggaran, yaitu rencana keuangan untuk periode tertentu, seringkali satu tahun. Apabila istilah ini dikaitkan dengan negara, maka biasanya merujuk pada APBN (Anggaran Penerimaan dan Belanja Negara).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bullion",
-      "full_title": null,
-      "description": "Istilah untuk menyebut emas, perak, atau komoditas logam lain dalam bentuk fisik, baik koin maupun batangan. Dalam berita ekonomi, bullion biasanya merujuk pada emas.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Bullish",
-      "full_title": null,
-      "description": "Merupakan lawan kata dari Bearish. Menunjukkan penguatan harga secara terus menerus selama periode waktu tertentu. Dalam forex, pasar Bullish disebut juga Uptrend dan seringkali disimpulkan sebagai sinyal Buy.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "B",
-      "title": "Buy Limit",
-      "full_title": null,
-      "description": "Adalah order Buy di bawah harga pasar saat ini. Buy Limit diambil dengan harapan harga mengalami Rebound setelah menyentuh titik Resistance tertentu. Lawan dari Buy Limit adalah Sell Limit.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Cable",
-      "full_title": null,
-      "description": "Nama lain untuk Pound Sterling (GBP). Julukan Cable muncul karena transaksi GBP dengan USD kala itu dilakukan oleh Cable Dealer (broker) menggunakan jaringan kabel Transatlantik pada tahun 1880.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "CAD",
-      "full_title": "Canadian Dollar",
-      "description": "Adalah singkatan dari Dolar Kanada. CAD sering juga disebut Loonie, dimana mata uang ini sangat sensitif dengan pergerakan harga minyak serta emas.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Candlestick",
-      "full_title": null,
-      "description": "Salah satu jenis grafik harga (chart) untuk memetakan dan membaca pergerakan harga di pasar finansial secara teknikal. Candlestick utamanya dibentuk oleh level-level OHLC (Open, High, Low, Close).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Capex",
-      "full_title": null,
-      "description": "Ialah Capital Expenditure, yaitu belanja modal yang dikeluarkan oleh pemerintah (Public Spending, Public Expenditure) atau perusahaan swasta (Corporate Spending, Corporate Expenditure, Private Spending, Private Expenditure).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Carry Trade",
-      "full_title": "Carry Trading",
-      "description": "Strategi trading yang lebih memanfaatkan selisih suku bunga antara dua mata uang yang diperdagangkan, daripada perubahan nilai tukar.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "CB",
-      "full_title": "The Conference Board",
-      "description": "Adalah lembaga yang mengeluarkan data mengenai Consumer Confidence. Data CB Consumer Confidence dirilis pada Selasa minggu terakhir setiap bulannya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Ceiling",
-      "full_title": "Ceiling price",
-      "description": "Istilah bahasa Inggris yang digunakan untuk menyebut plafon atau batas atas suatu hal, misalnya plafon kredit atau plafon anggaran.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Cent",
-      "full_title": "Akun Cent",
-      "description": "Menunjukkan nilai 1/100 dari satuan uang yang berlaku. Dalam forex, akun Cent memberi kesempatan untuk deposit dalam jumlah lebih sedikit karena hitungannya menggunakan Cent USD.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "CFD",
-      "full_title": "Contract For Difference",
-      "description": "Merupakan akronim dari Contract For Difference, yaitu kontrak derivatif dalam perdagangan pasar berjangka yang pada dasarnya merupakan turunan dari instrumen keuangan seperti saham, obligasi, komoditas berjangka, serta indeks saham.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Chart",
-      "full_title": null,
-      "description": "Grafik yang menunjukkan pergerakan harga suatu aset finansial, bisa berupa Bar, Line, atau Candlestick. Chart pada forex merepresentasikan harga pembukaan (Open), tertinggi (High), terendah (Low), dan penutupan (Close).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "CHF",
-      "full_title": null,
-      "description": "Singkatan dari Franc Swiss (Schweizer Franken atau Swissy). CHF kerap menjadi mata uang safe haven karena sejarah Franc yang sangat panjang hingga netralnya kebijakan politik negara Swiss.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Close Position",
-      "full_title": null,
-      "description": "Order untuk menutup transaksi yang sedang terbuka (Floating Position) dengan tujuan merealisasikan kerugian maupun keuntungan.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Commission",
-      "full_title": "Komisi",
-      "description": "Komisi trading adalah kutipan biaya transaksi yang dibayarkan trader kepada broker untuk setiap lot yang ditradingkan. Bagi broker, komisi trading digunakan sebagai pendapatan, serta membayar biaya ke penyedia likuiditas dan penyedia teknologi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Consumer Spending",
-      "full_title": null,
-      "description": "Diterjemahkan sebagai pengeluaran konsumen atau pengeluaran konsumsi pribadi (PCE), yaitu nilai dari barang dan jasa yang dibeli oleh, atau atas nama, penduduk Amerika Serikat.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Contango",
-      "full_title": null,
-      "description": "Situasi ketika harga suatu aset finansial di pasar futures lebih tinggi daripada di pasar spot. Contango merupakan kebalikan dari Backwardation.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "CPI",
-      "full_title": "Customer Price Index",
-      "description": "Merupakan singkatan dari Customer Price Index, yaitu data perubahan harga rata-rata di tingkat konsumen terhadap sejumlah barang dan jasa tertentu. Umumnya, data CPI dibagi menjadi dua, yaitu CPI Inti dan CPI Total.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Cross Currency Pair",
-      "full_title": null,
-      "description": "Trading pada pasangan mata uang mayor non-Dollar, misalnya AUD/CAD (Dolar Australia vs. Dolar Kanada) atau AUD/JPY (Dolar Australia vs Yen Jepang), dan sebagainya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Crowding Out",
-      "full_title": null,
-      "description": "Istilah yang digunakan untuk menunjukkan pengaruh anggaran defisit pada nilai tukar mata uang. Ketika anggaran defisit, maka nilai tukar mata uang suatu negara akan melemah dalam jangka panjang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Crude Inventory",
-      "full_title": "Crude Inventories",
-      "description": "Data ekonomi yang mencatat persediaan (stok) minyak mentah; total minyak mentah yang sudah ditambang dan disimpan dalam tangki penyimpanan untuk kelak dikirim ke pabrik pengilangan dan diolah menjadi Bensin atau lainnya dalam suatu periode tertentu.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "Current Account",
-      "full_title": null,
-      "description": "Ialah Neraca Transaksi Berjalan, suatu data ekonomi yang mencakup transaksi suatu negara dengan negara lain dalam suatu periode, baik ekspor-impor barang dan jasa, investasi keluar-masuk, serta remitansi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "C",
-      "title": "CySEC",
-      "full_title": "Cyprus Securities and Exchange Commission",
-      "description": "Badan pengatur bursa dan lembaga sekuritas sekaligus regulator broker forex di Siprus. Sebagai negara anggota Uni Eropa, peraturan dan operasi keuangan CySEC mematuhi undang-undang harmonisasi keuangan MiFID Eropa.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Day Trading",
-      "full_title": null,
-      "description": "Strategi yang dilakukan trader dengan membuka dan menutup posisi trading dalam hari yang sama, sehingga kepastian Loss/Profit dapat diketahui segera.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "DD",
-      "full_title": "Dealing Desk",
-      "description": "Salah satu jenis broker yang beroperasi dengan pasarnya sendiri dan belum tentu menampilkan nilai tukar (harga) riil seperti yang tersaji di pasar interbank. Broker jenis DD juga kerap disebut broker bandar.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Death Cross",
-      "full_title": null,
-      "description": "Adalah crossing (persilangan/perpotongan) dari atas ke bawah antara Moving Average berperiode rendah dengan Moving Average berperiode lebih tinggi. Momen Death Cross seringkali digunakan sebagai pertanda tren Bearish, sehingga bisa dimanfaatkan untuk entry Sell.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Defisit",
-      "full_title": null,
-      "description": "Menggambarkan kondisi negatif pada suatu neraca, misalnya defisit neraca perdagangan artinya impor lebih tinggi daripada ekspor. Lawan dari defisit adalah surplus.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Deflasi",
-      "full_title": null,
-      "description": "Istilah untuk menyebut penurunan harga barang dan jasa secara terus menerus dalam suatu periode tertentu di suatu wilayah. Lawan kata dari deflasi adalah inflasi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Demo",
-      "full_title": "Akun Demo",
-      "description": "Jenis akun trading yang disediakan oleh broker forex sebagai media belajar bagi pemula. Melalui akun demo, trader dapat merasakan pengalaman trading secara online seperti sesungguhnya, tetapi tidak beresiko kehilangan uang karena hanya berupa uang mainan (virtual).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Deposit",
-      "full_title": "Deposit Forex",
-      "description": "Sejumlah dana yang harus diberikan kepada broker sebagai modal trading dan menikmati layanan yang diberikan (oleh broker tersebut).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Depresiasi",
-      "full_title": null,
-      "description": "Penurunan nilai suatu mata uang secara terus menerus dibanding mata uang lain. Ketika sebuah mata uang terdepresiasi, barang-barang impor cenderung lebih mahal. Sebaliknya, barang-barang ekspor cenderung lebih murah. Depresiasi merupakan lawan kata dari Apresiasi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Devaluasi",
-      "full_title": null,
-      "description": "Devaluasi adalah menurunnya nilai mata uang dalam negeri terhadap mata uang luar negeri. Devaluasi disebabkan oleh tingginya kegiatan impor dan tingkat pengangguran di suatu negara.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Discount",
-      "full_title": null,
-      "description": "Istilah bahasa Inggris yang bisa berarti Diskon, yaitu pengurangan harga dalam persentase tertentu; atau Suku Bunga, yaitu perbandingan antara harga saat ini dengan harga masa depan (dalam bentuk persentase).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Dividen",
-      "full_title": null,
-      "description": "Adalah pembagian laba perusahaan kepada pemegang saham berdasarkan banyaknya saham yang dimiliki secara pro rata. Pembagian dividen biasanya dilakukan setelah RUPST (Rapat Utama Pemegang Saham Tahunan).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Comdoll",
-      "full_title": "Dolar Komoditas, Commodity Dollar",
-      "description": "Istilah untuk menyebut mata uang komoditas, yaitu mata uang yang nilainya sangat dipengaruhi oleh harga komoditas tertentu yang menjadi sumber pendapatan utama suatu negara. Mata uang yang termasuk Comdoll antara lain AUD (Dolar AUstralia), NZD (Dolar New Zealand), dan CAD (Dolar Kanada).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Dollar Cost Averaging",
-      "full_title": null,
-      "description": "Teknik investasi dengan membeli aset secara rutin dalam rentang waktu tertentu. Strategi ini biasanya diterapkan oleh investor saham dan amat efektif bila digunakan untuk saham-saham dengan prospek bagus dalam jangka panjang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Dovish",
-      "full_title": null,
-      "description": "Pernyataan pejabat bank sentral yang merujuk pada keinginan untuk melancarkan atau mempertahankan kebijakan moneter longgar, seperti keengganan untuk menaikkan suku bunga, menambah jumlah stimulus moneter, atau lainnya. Lawan kata Dovish adalah Hawkish, yaitu kebijakan moneter ketat.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Dow Jones Index, DJIA",
-      "full_title": null,
-      "description": "Indeks Dow Jones; salah satu indeks saham AS paling terkenal, dianggap secara komprehensif mewakili fluktuasi harga saham AS di semua sektor dan merupakan salah satu indikator dalam analisa intermarket.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Dow Theory",
-      "full_title": null,
-      "description": "Merupakan dasar dari analisa teknikal di pasar keuangan yang dicetuskan oleh Charles H. Dow. Teori ini lantas berkembang menjadi menjadi rujukan di pasar finansial melalui kantor Dow Jones yang secara berkala merilis Dow Jones Index (DJIA).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "D",
-      "title": "Downtrend",
-      "full_title": null,
-      "description": "Suatu kondisi yang menunjukkan penurunan harga secara terus menerus dalam suatu periode tertentu. Kondisi Downtrend disebabkan oleh sentimen Bearish.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "E",
-      "title": "Emas Hitam",
-      "full_title": null,
-      "description": "Sebutan untuk komoditas minyak mentah. Emas hitam juga disebut sebagai minyak bumi, dalam bahasa Inggris diistilahkan dengan Crude Oil.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "E",
-      "title": "Emerging Markets",
-      "full_title": null,
-      "description": "Adalah pasar negara-negara berkembang (berdasarkan PDB-nya). Mata uang negara berkembang disebut Emerging Currencies. Pasar negara berkembang memiliki beberapa karakteristik pasar maju, tetapi tidak memenuhi standar untuk disebut pasar maju.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "E",
-      "title": "Equity",
-      "full_title": null,
-      "description": "Adalah aset yang tersisa setelah Balance dalam akun trader dikurangi atau ditambah nominal keuntungan atau kerugian pada posisi trading yang masih terbuka.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "E",
-      "title": "Euro",
-      "full_title": null,
-      "description": "Mata uang yang dipakai oleh sebagian besar negara di Uni Eropa, khususnya negara-negara Zona Euro. Euro kerap disebut sebagai Single Curency karena digunakan oleh banyak negara.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "E",
-      "title": "Exotic Pair",
-      "full_title": null,
-      "description": "Adalah sebutan untuk pasangan mata uang negara-negara selain mata uang mayor dengan US Dollar, Japanese Yen atau Euro. Contoh Exotic Pair seperti USD/TRY (Dolar AS vs Lira Turki) atau USD/ZAR (Dolar AS vs Rand Afrika Selatan).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "E",
-      "title": "EA",
-      "full_title": "Expert Advisor",
-      "description": "Ialah Robot Trading Forex, yaitu software atau script algoritma yang ditambahkan dalam platform trading forex. Trader kerap menggunakan EA agar dapat melakukan transaksi buy dan sell tanpa instruksi manual pengguna (berjalan otomatis).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "FCA",
-      "full_title": "Financial Conduct Authority",
-      "description": "Singkatan dari Financial Conduct Authority, yaitu salah satu badan pengawas keuangan sekaligus regulator broker forex nan terkemuka di Inggris.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "FFR",
-      "full_title": "Fed Funds Rate",
-      "description": "Suku bunga acuan yang ditentukan oleh The Federal Reserve selaku bank sentral Amerika Serikat. Penentuan suku bunga AS biasanya dilakukan oleh para anggota FOMC.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "FOMC",
-      "full_title": "Federal Open Market Committee",
-      "description": "Komite tertinggi yang mengadakan rapat untuk membahas kebijakan moneter bank sentral AS secara berkala. Anggota FOMC berasal dari para pejabat The Fed, terdiri atas anggota permanen dan anggota bergilir.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "The Fed",
-      "full_title": "Federal Reserve",
-      "description": "Bank sentral Amerika Serikat yang merupakan jaringan dari 12 Federal Reserve Bank beserta cabang-cabangnya. Secara keseluruhan, mereka diawasi oleh dewan gubernur The Fed.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "Financial Statement",
-      "full_title": null,
-      "description": "Dalam bahasa Indonesia disebut Laporan Keuangan; berisi detail mengenai aliran dana perusahaan, asal pendapatan, serta kondisi dana saat ini (berubah menjadi aset, digunakan sebagai modal usaha, atau disimpan sebagai laba).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "Floating",
-      "full_title": null,
-      "description": "Dalam forex, istilah Floating digunakan untuk menyebut posisi terbuka yang belum di close (bisa Floating Profit atau Floating Loss). Sementara pada kondisi trading di broker forex, terdapat istilah Floating Spread yang artinya spread dapat melebar pada kondisi tertentu.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "Floor",
-      "full_title": null,
-      "description": "Dalam ekonomi, istilah Floor Price artinya harga terendah yang ditentukan oleh pemerintah, untuk mencegah pergerakan harga yang tidak terkendali. Floor Price merupakan lawan kata dari Ceiling Price.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "FMA",
-      "full_title": "Financial Market Authority",
-      "description": "Akronim dari Financial Market Authority, badan pengawas pasar keuangan sekaligus regulator forex di New Zealand. FMA merupakan super regulator yang berperan mengembalikan kepercayaan investor setelah banyak perusahaan keuangan gulung tikar dan mengalami krisis finansial global.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "Forex",
-      "full_title": "Foreign Exchange",
-      "description": "Adalah Foreign Exchange atau pertukaran mata uang asing (valas). Sementara trading forex merujuk pada aktivitas perdagangan valas secara online untuk mendapatkan keuntungan.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "F",
-      "title": "Free Rider",
-      "full_title": null,
-      "description": "Istilah untuk menyebut sekelompok orang atau golongan yang menggunakan properti publik tanpa memberikan pembayaran nan sesuai. Free Rider bisa juga untuk menyebut orang-orang yang mangkir bayar pajak atau menyatakan pajaknya di bawah nilai kekayaan asli.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "G",
-      "title": "Gain",
-      "full_title": "Capital Gain",
-      "description": "Keuntungan yang diperoleh trader dari selisih harga beli dengan harga jual suatu aset finansial. Capital Gain juga menjadi sumber keuntungan investasi saham di samping Dividen Yield.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "G",
-      "title": "Gap",
-      "full_title": null,
-      "description": "Kondisi kenaikan atau penurunan harga yang tajam pada chart. Pergerakan harga ini menyebabkan kekosongan di antara level harga penutupan sebelumnya dan harga pembukaan, tanpa terjadi transaksi trading, sehingga terbentuk celah (gap).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "G",
-      "title": "GDP",
-      "full_title": "Gross Domestic Product",
-      "description": "Yaitu Gross Domestic Product, atau dalam bahasa Indonesia disebut Produk Domestik Bruto (PDB). GDP adalah indikator fundamental utama untuk mengukur tingkat pertumbuhan ekonomi suatu negara.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "G",
-      "title": "Golden Cross",
-      "full_title": null,
-      "description": "Adalah crossing (persilangan/perpotongan) dari bawah ke atas antara Moving Average berperiode rendah dengan Moving Average berperiode lebih tinggi. Momen Golden Cross seringkali digunakan sebagai pertanda tren Bullish, sehingga bisa dimanfaatkan untuk entry Buy.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "H",
-      "title": "Hard Currency",
-      "full_title": null,
-      "description": "Istilah untuk menyebut mata uang yang nilainya mempengaruhi nilai mata uang lain. Hal ini terjadi karena negara asalnya termasuk negara maju dengan sistem pemerintahan yang kuat.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "H",
-      "title": "Hawkish",
-      "full_title": null,
-      "description": "Pernyataan pejabat bank sentral yang merujuk kecenderungan melancarkan atau mempertahankan kebijakan moneter ketat, seperti menaikkan suku bunga, mengurangi stimulus moneter, dan lain sebagainya. Lawan kata dari Hawkish adalah Dovish, yaitu kebijakan moneter longgar.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "H",
-      "title": "Hedge Fund",
-      "full_title": null,
-      "description": "Perusahaan pengelola aset investasi yang menghimpun dana dari masyarakat (sebagai investor) untuk dikelola secara privat, bebas memanfaatkan leverage tinggi, maupun mengalokasikan dana kelolaan ke berbagai aset berisiko seperti futures atau options. Tujuan Hedge Fund adalah memperoleh imbal hasil tertentu, yang kemudian dibagi antara pihak Hedge Fund dengan investor.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "H",
-      "title": "Hedging",
-      "full_title": null,
-      "description": "Upaya yang dilakukan investor atau trader untuk membatasi kerugian di pasar keuangan, dengan melakukan transaksi jual dan beli sekaligus pada suatu aset finansial yang sama.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "Ichimoku Kinko Hyo",
-      "full_title": null,
-      "description": "Salah satu indikator teknikal yang berfungsi untuk mengetahui tren sekaligus menemukan sinyal trading potensial hanya dalam sekali pandang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "Indeks Saham",
-      "full_title": null,
-      "description": "Indikator yang menggambarkan performa pasar saham pada periode tertentu. Dengan adanya indeks, tren harga saham saat ini dapat dipantau. Kenaikan sebagian besar harga saham yang tergabung dalam suatu indeks bisa mendongkrak nilai indeks tersebut.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "Indikator Ekonomi",
-      "full_title": null,
-      "description": "Data statistik yang digunakan oleh analis dan pelaku pasar untuk mengetahui kondisi ekonomi terkini maupun memproyeksikan peluang ekonomi di masa depan. Indikator ekonomi juga dapat digunakan untuk menentukan sehat-tidaknya perekonomian suatu negara.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "Indikator Teknikal",
-      "full_title": null,
-      "description": "Alat yang dibuat berdasarkan perhitungan matematis atas histori harga, volume, atau minat pasar terhadap sebuah instrumen investasi atau kontrak keuangan. Penggunaan indikator teknikal bertujuan untuk memprediksi pergerakan harga di masa depan.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "Inflasi",
-      "full_title": null,
-      "description": "Suatu kondisi yang menggambarkan kenaikan harga barang dan jasa secara terus menerus dalam suatu periode tertentu di suatu wilayah. Lawan kata Inflasi adalah Deflasi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "Initial Margin",
-      "full_title": null,
-      "description": "Deposit awal yang perlu disetorkan oleh trader agar dapat mulai bertransaksi. Deposit-deposit selanjutnya cukup disebut sebagai margin dan berfungsi agar trader bisa mempertahankan posisi tradingnya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "IB",
-      "full_title": "Introducing Broker",
-      "description": "Sistem kerjasama yang paling sederhana antara broker dengan pihak ketiga untuk memasarkan produk dan merekrut klien (nasabah). Tugas utama pihak ketiga (IB) yaitu mengumpulkan klien untuk broker. Sebagai gantinya, IB akan memperoleh imbalan (reward).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "I",
-      "title": "Investor",
-      "full_title": null,
-      "description": "Sebutan untuk sekelompok orang yang menempatkan dananya dalam instrumen investasi jangka panjang seperti real estate (properti), industri skala besar maupun kecil, atau berinvestasi di pasar keuangan untuk ditahan dalam jangka panjang (di atas 3 tahun).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "J",
-      "title": "January Effect",
-      "full_title": null,
-      "description": "Anomali yang terjadi ketika harga-harga saham naik pada bulan Januari. Pelaku pasar membeli saham-saham pada harga murah sebelum Januari, lalu menjualnya setelah harga naik.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "J",
-      "title": "Jawboning",
-      "full_title": null,
-      "description": "Istilah bahasa Inggris untuk menyebut pernyataan yang dikeluarkan oleh pejabat otoritas moneter (bank sentral) suatu negara dengan tujuan untuk melemahkan nilai mata uangnya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "J",
-      "title": "Joint Account",
-      "full_title": null,
-      "description": "Akun rekening yang dikelola bersama, misalnya rekening tabungan atau giro. Joint Account biasa digunakan oleh pasangan suami istri, perusahaan, atau dua pihak yang bekerjasama.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "J",
-      "title": "JPY",
-      "full_title": null,
-      "description": "Sebutan untuk mata uang Jepang (Yen Jepang, Japanese Yen). Yen Jepang juga sering disebut sebagai Safe Haven bersama CHF, karena ketika pasar bearish, para investor Jepang merepatriasi sejumlah uang yang mereka investasikan di luar Jepang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "K",
-      "title": "Kalender Forex",
-      "full_title": "Kalender Ekonomi",
-      "description": "Kalender yang memuat jadwal rilis berbagai data ekonomi maupun peristiwa penting terkait kebijakan moneter dan fiskal dari negara-negara yang mata uangnya diperdagangkan dalam pasar forex.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "K",
-      "title": "Kebijakan Ekonomi",
-      "full_title": null,
-      "description": "Keputusan praktis atau perundangan yang dikeluarkan oleh otoritas di suatu negara dalam bidang ekonomi. Dalam ekonomi, terdapat dua jenis kebijakan, yaitu kebijakan moneter dan kebijakan fiskal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "K",
-      "title": "Kebijakan Fiskal",
-      "full_title": null,
-      "description": "Kebijakan yang dibuat oleh pemerintah dan berkaitan dengan anggaran pendapatan dan belanja negara (APBN). Termasuk dalam cakupan kebijakan fiskal antara lain perpajakan, obligasi, gaji PNS, subsidi, dan lain sebagainya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "K",
-      "title": "Kebijakan Moneter",
-      "full_title": "Monetary Policy",
-      "description": "Kebijakan terkait jumlah uang beredar, biasanya diambil oleh Bank Sentral atau Otoritas Moneter suatu negara. Kebijakan Moneter secara umum terbagi menjadi Kebijakan Moneter Ketat (Tight Monetary Policy) dan Kebijakan Moneter Longgar (Loose Monetary Policy).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "K",
-      "title": "Kontraksi",
-      "full_title": "Contraction",
-      "description": "Terjemahan dari istilah bahasa Inggris 'Contraction' atau 'Contracted', artinya perlambatan atau penurunan. Istilah kontraksi digunakan untuk menggambarkan terjadinya perlambatan perekonomian secara umum, bisa pada suatu perusahaan, atau dalam satu sektor ekonomi tertentu. Lawan kata dari Kontraksi adalah Ekspansi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "L",
-      "title": "Likuidasi",
-      "full_title": null,
-      "description": "Penutupan posisi trading yang masih terbuka oleh trader ataupun sistem secara otomatis. Dalam dunia investasi, likuidasi terjadi ketika seorang investor memutuskan untuk menutup posisinya pada sebuah aset/instrumen.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "L",
-      "title": "Likuiditas",
-      "full_title": null,
-      "description": "Ketersediaan dana di sebuah perusahaan, atau ketersediaan dana yang memperdagangkan suatu aset di pasar keuangan. Dalam dunia trading, likuiditas juga bisa diartikan sebagai kemampuan sebuah aset diperdagangkan di pasar.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "L",
-      "title": "Limit Order",
-      "full_title": "Limit-Entry Order",
-      "description": "Jenis order dalam trading forex dimana trader melakukan entry Buy di bawah harga pasar sekarang, atau Sell di atas harga pasar sekarang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "L",
-      "title": "Liquidity Provider",
-      "full_title": "Penyedia Likuiditas",
-      "description": "Lembaga atau institusi finansial di dalam jaringan broker dengan pasar forex, di mana setiap agensi mereka akan terus-menerus mentransmisikan harga permintaan dan penawaran sesuai dengan harga pasar terkini.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "L",
-      "title": "Live Account, Real Account, Akun Live, Akun Riil",
-      "full_title": null,
-      "description": "Jenis akun trading dimana trader harus menyetorkan sejumlah dana sebagai modal awal (Initial Margin) sebelum mulai trading. Namun sebelum trading di akun riil, trader disaranka berlatih di akun Demo terlebih dahulu untuk melatih kondisi psikologis.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "L",
-      "title": "Long Position",
-      "full_title": null,
-      "description": "Tindakan mengambil posisi BUY (membeli suatu aset) ketika pasar sedang Bullish. Long position artinya trader atau investor ingin mendapatkan keuntungan dari kenaikan nilai suatu aset. Kebalikan dari Long Position adalah Short Position.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "L",
-      "title": "Lot",
-      "full_title": null,
-      "description": "Standar ukuran per transaksi di pasar keuangan. Di Bursa Efek Indonesia, 1 lot = 100 lembar saham. Dalam trading forex, 1 lot standar sama dengan 100,000 unit. Ada pula ukuran trading yang lebih kecil, antara lain lot mini, lot mikro, dan lot nano.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "MACD",
-      "full_title": "Moving Average Convergence Divergence",
-      "description": "Singkatan dari Moving Average Convergence Divergence, yaitu indikator teknikal yang berfungsi menunjukkan arah tren dan momentum harga aset di pasar keuangan.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "Margin",
-      "full_title": null,
-      "description": "Sejumlah dana yang perlu disetorkan trader sebagai jaminan agar bisa bertransaksi pada broker yang memberikan fasilitas leverage bagi nasabahnya. Terdapat dua jenis margin, yaitu Free Margin dan Used Margin.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "Margin Call",
-      "full_title": null,
-      "description": "Fasilitas broker yang memperingatkan trader jika ekuitas akun trading sudah tidak mencukupi nilai margin yang dibutuhkan untuk membuka posisi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "Martingale",
-      "full_title": null,
-      "description": "Strategi trading berdasarkan teori probabilitas, dimana trader forex akan menggandakan posisi tradingnya apabila harga bergerak ke arah yang berlawanan dengan prediksi awal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "Micro Lot",
-      "full_title": null,
-      "description": "Ukuran lot bernilai seperseratus dari lot standar, yaitu USD 1,000. Dengan leverage 1:100, margin yang dibutuhkan hanya USD 10.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "Money Flow Index",
-      "full_title": null,
-      "description": "Indikator Oscillator yang aplikasinya mirip Relative Strength Index (RSI). Dengan menyertakan faktor besaran volume, indikator MFI lebih mencerminkan dinamika pergerakan pasar yang tidak hanya terpatok pada harga saja.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "MM",
-      "full_title": "Money Management",
-      "description": "Pengelolaan dana trading yang bertujuan mengoptimalkan keuntungan dan membatasi risiko, serta menjaga modal tidak cepat ludes. Dengan demikian, trader mampu bertahan meski terjadi kerugian.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "Moving Average",
-      "full_title": null,
-      "description": "Indikator teknikal bersifat overlay dan berbentuk garis yang ditumpukkan di atas chart. Semakin panjang periode Moving Average, maka pergerakan garis akan makin lambat (lagging) dibandingkan harga.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "M",
-      "title": "Moving Average",
-      "full_title": null,
-      "description": "Indikator teknikal bersifat overlay dan berbentuk garis yang ditumpukkan di atas chart. Semakin panjang periode Moving Average, maka pergerakan garis akan makin lambat (lagging) dibandingkan harga.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "NASDAQ",
-      "full_title": null,
-      "description": "Bursa saham AS yang mayoritas emitennya berasal dari sektor teknologi. Pergerakan indeks NASDAQ cenderung mudah terpengaruh oleh isu-isu seputar teknologi. Berdasarkan kapitalisasinya, NASDAQ merupakan bursa saham terbesar kedua dunia setelah bursa saham New York (NYSE).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "NDD",
-      "full_title": null,
-      "description": "Jenis broker forex yang menyalurkan order klien ke pasar (Electronic Communication Network/ECN) atau menghubungkan order ke broker ECN yang lebih besar (Straight Through Processing/STP).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "Neckline",
-      "full_title": null,
-      "description": "Garis yang membatasi area bawah pada pola Head and Shoulders. Dalam pola Inverted Head and Shoulders, Neckline menjadi garis yang membatasi area atas. Neckline menjadi acuan penting untuk entry dengan pola Head and Shoulders.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "New Home Sales",
-      "full_title": null,
-      "description": "Data penjualan rumah baru di AS yang bisa berada dalam tahap konstruksi apapun, baik itu belum dimulai, sedang dibangun, atau sudah selesai dbangun. New Home Sales biasa digunakan sebagai salah satu indikator dalam mengukur kondisi pasar properti di Amerika Serikat.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "Nikkei",
-      "full_title": null,
-      "description": "Disebut sebagai Nikkei 225 (N225), indeks ini terdiri dari kumpulan saham terdaftar di Bursa Efek Tokyo. Nikkei mengumpulkan 225 saham Blue Chip dari 225 perusahaan terkemuka di Jepang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "No Deposit Bonus",
-      "full_title": "Bonus Tanpa Deposit",
-      "description": "Penawaran broker forex yang memberikan sejumlah dana kepada trader sebagai deposit akun. Aturan pada No Deposit Bonus terkait syarat penarikan dan masa berlaku promo sangat penting diperhatikan oleh trader.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "NFP",
-      "full_title": "Non Farm Payroll",
-      "description": "Data perubahan jumlah ketenagakerjaan AS yang mengecualikan sektor pemerintahan (PNS), pegawai rumah tangga, non-profit atau nirlaba (LSM), dan pertanian. NFP AS mencerminkan kondisi tenaga kerja di sektor komersil dan industri di AS, serta berdampak tinggi pada pergerakan Dolar AS karena menjadi salah satu dasar The Fed dalam menuntukan kebijakan.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "NYMEX",
-      "full_title": "New York Mercantile Exchange",
-      "description": "Bursa komoditas berjangka terbesar di dunia yang berbasis di New York. Pada dasarnya, NYMEX merupakan singkatan dari New York Mercantile Exchange. Perusahaan di balik NYMEX adalah NYMEX Holdings, Inc. yang didirikan sejak tahun 1882. Saat ini, perusahaan tersebut sudah melantai di bursa saham New York (NYSE) dengan kode emiten NMX. NYMEX Holdings, Inc. juga sudah terdaftar di badan pengawas CFTC.Beragam komoditas yang diperdagangkan di NYMEX meliputi Aluminum, Batubara, Tembaga, Minyak Mentah, Tenaga listrik, Bensin, Emas, Minyak Bakar, Gas Alam, Paladium, Platina, Propana, dan Perak.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "NYSE",
-      "full_title": "New York Stock Exchange",
-      "description": "Berlokasi di Wall Street, NYSE atau New York Stock Exchange adalah Bursa Efek New York dengan jumlah saham perusahaan yang terdaftar mencapai 2,400. NYSE adalah bursa efek terbesar di dunia jika dilihat dari total kapitalisasi pasar perusahaan-perusahaannya. Saham-saham yang diperdagangkan di NYSE memiliki indeks tergabung dalam NYSE Composite. Kode NYSE di bursa perdagangan adalah NYA.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "N",
-      "title": "NZD",
-      "full_title": "New Zealand Dollar",
-      "description": "NZD atau New Zealand Dollar adalah mata uang Selandia Baru. Bersama dengan Dolar Australia, mata uang ini disebut sebagai mata uang Antipodean. Pergerakan harga NZD cenderung dipengaruhi oleh harga susu karena New Zealand adalah eksportir produk olahan susu terbesar di dunia.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "OCO Order",
-      "full_title": "One-Cancel-the-Other",
-      "description": "Merupakan jenis order dalam trading forex. Pada dasarnya, OCO memungkinkan trader untuk menempatkan order dengan harga dan durasi berbeda di atas dan di bawah harga saat ini. Ketika salah satu order dieksekusi, maka order satunya akan dibatalkan. Jenis order ini tidak tersedia di semua broker.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "Offer",
-      "full_title": null,
-      "description": "Harga yang ditawarkan dalam suatu transaksi di pasar finansial. Disebut juga sebagai Ask Price atau harga di mana trader akan membeli (Buy) mata uang dasar.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "OP",
-      "full_title": "Open Position",
-      "description": "Membuka transaksi di platform trading. Pada umumnya, open posisi ada dua jenis, yakni Long Position (posisi Buy) dan Short Position (posisi Sell). Namun ada juga pembukaan posisi pending (tertunda) yang memungkinkan trader untuk menetapkan target harga terlebih dulu sebelum order tereksekusi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "Options",
-      "full_title": null,
-      "description": "Dalam perdagangan di pasar finansial, Options bisa merujuk pada kependekan dari Stock Options, yaitu sebuah kontrak yang memberikan hak kepada investor untuk membeli atau menjual suatu saham pada harga dan tanggal tertentu, tetapi mereka tak wajib melaksanakan hak tersebut.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "Order",
-      "full_title": null,
-      "description": "Instruksi untuk mengeksekusi perdagangan forex pada level harga tertentu di sistem platform trading. Terdapat dua jenis order utama yaitu Buy dan Sell, disamping jenis-jenis order pelengkap seperti Stop Order, Limit Order, dan OCO Order.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "oto order",
-      "full_title": "One-Triggers-the-Other",
-      "description": "Salah satu jenis order pelengkap di platform trading forex. Kebalikan dari OCO Order, penempatan transaksi dengan OTO melibatkan 2 posisi trading dengan harga dan durasi berbeda. Ketika salah satu ordernya dieksekusi, maka order satunya akan ikut terbuka secara otomatis.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "Overheating",
-      "full_title": null,
-      "description": "Dalam konteks ekonomi, overheating adalah situasi ketika kapasitas produksi di suatu negara tak mampu memenuhi permintaan agregat. Dengan kata lain, sisi produksi tak mampu mengejar pertumbuhan sisi konsumsi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "Overnight",
-      "full_title": null,
-      "description": "Posisi trading yang terbuka hingga keesokan harinya. Secara teknis, overnight position mencatat posisi yang masih terbuka saat melewati tengah malam berdasarkan waktu server broker.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "Oversold, Overbought",
-      "full_title": null,
-      "description": "Overbought merupakan kondisi dimana harga naik dan mencapai level tertentu sehingga mengalami jenuh beli. Oversold adalah situasi ketika harga turun hingga level tertentu dan mengalami keadaan jenuh jual.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "O",
-      "title": "Overtrading, Over Trading, Overtrade",
-      "full_title": null,
-      "description": "Melakukan trading secara berlebihan, baik dengan membuka satu posisi trading dalam jumlah lot besar, atau membuka terlalu banyak posisi dalam satu waktu. Disebabkan oleh emosi trading yang kurang stabil, overtrading disebabkan oleh salah satu atau kedua skenario berikut: Serakah mengejar profit, Bernafsu mengganti kerugian dari posisi loss.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Pair",
-      "full_title": null,
-      "description": "Pasangan dua mata uang yang terdiri dari mata uang suatu negara dengan mata uang negara lain. Nilai pasangan mata uang merupakan nilai tukar mata uang terhadap mata uang negara lain. Dalam pair GBP/USD misalnya, mencerminkan nilai tukar GBP (Pound Inggris) terhadap USD (Dolar AS).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Pair Mayor",
-      "full_title": null,
-      "description": "Pasangan mata uang asing yang paling sering diperdagangkan di pasar forex.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "PAMM",
-      "full_title": "Percentage Allocation Module Management",
-      "description": "Percentage Allocation Module Management, merupakan skema investasi yang menghubungkan investor dengan trader profesional dengan sistem keuntungan bagi hasil.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Parabolic SAR",
-      "full_title": null,
-      "description": "Indikator teknikal yang diciptakan oleh J Welles Wilder dan tampil sebagai titik-titik yang berlokasi di atas atau di bawah harga. Parabolic SAR termasuk dalam keluarga indikator tren harga, dan perpindahan sinyal titiknya dianggap sebagai penunjuk reversal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Parity",
-      "full_title": "Paritas",
-      "description": "Terminologi ekonomi secara umum: kesetaraan harga, nilai tukar, daya beli, atau upah. Terminologi forex secara khusus: kondisi ketika nilai tukar dua mata uang berada pada posisi 1:1.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Pegging",
-      "full_title": null,
-      "description": "Patokan yang digunakan oleh otoritas moneter untuk menentapkan batas maksimal atau minimal nilai tukar suatu mata uang terhadap mata uang lainnya. Contohnya, Swiss pernah menentukan pegging 1 EUR = 1.20 CHF. Nilai tukar yang dipegging (pegged exchange rate) dapat disebut sebagai fixed exchange rate. Untuk mengaplikasikannya, bank sentral harus mengatur peredaran uang serta memonitor Supply dan Demand secara ketat.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Pending Order",
-      "full_title": null,
-      "description": "Jenis order dalam trading forex yang menentukan entry di level berbeda dari harga sekarang. Sehingga, order akan ter-pending dulu sebelum harga menyentuh level entry yang ditargetkan dan memicu eksekusi order. Empat jenis pending order dalam forex yang paling umum adalah: Buy Limit: Buy di level lebih rendah dari harga sekarang. Sell Limit: Sell di level lebih tinggi dari harga sekarang. Buy  Sell Stop: Sell di level lebih rendah dari harga sekarang.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Penny Stock",
-      "full_title": null,
-      "description": "Julukan untuk saham berharga sangat murah. Penny Stock di AS biasanya adalah saham-saham berharga kurang dari USD5 per lembar. Sementara jika di Indonesia, saham-saham yang masuk dalam jenis Penny Stock berharga Rp50 per lembar atau lebih rendah.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Pip, Pips",
-      "full_title": null,
-      "description": "Satuan terkecil untuk mewakili perubahan harga dalam trading forex. Apabila nilai GBP/USD berubah dari 1.2688 ke 1.2687, maka artinya terdapat penurunan nilai sebesar 1 pip.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Pipette",
-      "full_title": null,
-      "description": "Satuan terkecil harga pasangan mata uang, dengan nilai sepersepuluh pip yang mewakili perubahan harga dalam trading forex. Pipette biasanya muncul sebagai digit ke-5 setelah tanda desimal dalam suatu pair (digit ke-3 untuk pair-pair JPY), mengikuti pip yang muncul sebagai digit ke-4 setelah tanda desimal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Platform Trading",
-      "full_title": null,
-      "description": "Fasilitas trading yang memungkinkan trader mengatur dan mengeksekusi order secara real-time di pasar forex. Platform trading biasanya dipasang sebagai aplikasi di PC atau Smartphone, bisa pula dibuka sebagai halaman web di browser. Fasilitas ini wajib disediakan broker forex untuk para tradernya. Selain memiliki fitur untuk mengatur dan memasang order, platform juga umum dilengkapi dengan chart harga real-time dan berbagai tool analisa. Contoh platform yang umum ditawarkan adalah MetaTrader (dari MetaQuotes), cTrader (dari SpotWare), dan jenis platform yang dikembangkan sendiri oleh broker (proprietary).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Point",
-      "full_title": null,
-      "description": "Sebutan lain untuk pipette yang merupakan satuan terkecil dalam perubahan harga. Point bernilai sepersepuluh lebih kecil dari pip dan bisa dilihat pada pair-pair yang diperdagangkan di platform trading dengan sistem pricing 5 digit di belakang tanda desimal (3 digit pada pair-pair JPY).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Portofolio",
-      "full_title": null,
-      "description": "Kombinasi aset finansial yang bisa mencakup saham, obligasi (bonds), komoditas, dan aset lainnya. Dimiliki oleh seorang investor, manajer investasi, perusahaan, atau lembaga finansial lainnya, portofolio biasanya diklasifikasikan menurut risikonya: rendah (konservatif), sedang (moderat), atau tinggi (agresif).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Price Action",
-      "full_title": null,
-      "description": "Pergerakan harga suatu aset atau suatu pasangan mata uang. Dalam praktiknya, Price Action menjadi istilah khusus untuk metode analisa teknikal berdasarkan pergerakan harga di masa lampau. Trader berupaya menemukan pola dalam pergerakan harga yang sepintas tampak acak, sehingga Price Action sering dikaitkan dengan analisa pola candlestick. Namun, tak jarang pula Price Action dianggap mencakup analisa price pattern.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Profit/Loss, P/L, Gain/Loss",
-      "full_title": null,
-      "description": "Salah satu kolom dalam histori akun di platform trading. Profit/Loss secara khusus menampilkan besarnya keuntungan atau kerugian untuk posisi trading yang sudah ditutup (closed position).",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Public Debt",
-      "full_title": null,
-      "description": "Data ekonomi yang melaporkan utang pemerintah. Jenis utang lain yang diperhatikan dalam publikasi data ekonomi adalah utang swasta, yang juga disebut sebagai Corporate Debt atau Private Debt.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "P",
-      "title": "Pullback",
-      "full_title": null,
-      "description": "Kondisi dimana harga bergerak berlawanan dari trend utama untuk sementara waktu. Apabila harga sedang uptrend, maka pullback adalah penurunan singkat. Bila harga sedang downtrend, maka pullback adalah kenaikan singkat sebelum harga kembali turun. Pullback juga kerap diartikan sebagai koreksi atau Retracement.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "QAR",
-      "full_title": null,
-      "description": "Simbol Qatari Riyal atau mata uang yang digunakan secara resmi di Qatar. Mata uang ini menggantikan Riyal Qatar dan Dubai ketika Dubai masuk ke Uni Emirat Arab pada tahun 1973.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "Qualitative Analysis",
-      "full_title": null,
-      "description": "Metode analisa trading yang didasarkan pada pendapat ahli, sentimen pasar, data ekonomi, berita, dan indikator-indikator sejenis yang bisa memberikan pertimbangan secara kualitatif untuk memahami bias pasar dan menemukan peluang transaksi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "QE",
-      "full_title": "Quantitative Easing",
-      "description": "Metode analisa trading yang didasarkan pada pendapat ahli, sentimen pasar, data ekonomi, berita, dan indikator-indikator sejenis yang bisa memberikan pertimbangan secara kualitatif untuk memahami bias pasar dan menemukan peluang transaksi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "Quantitative Trading",
-      "full_title": null,
-      "description": "Strategi trading yang bergantung pada perhitungan matematis untuk mendeteksi peluang trading. Fokus Quantitative Trading biasnaya tertuju pada Harga dan Volume. Termasuk dalam jenis strategi ini adalah High-Frequency Trading dan Algorithmic Trading yang sering diaplikasikan oleh institusi finansial dan lembaga Hedge Fund.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "QoQ",
-      "full_title": "Quarter on Quarter",
-      "description": "Standar periode waktu antara kuartal saat ini dengan kuartal yang sama di tahun sebelumnya. Apabila rilis GDP kuartal pertama meningkat dari 1.0% ke 2.0% secara QoQ, maka artinya GDP kuartal pertama tahun ini lebih baik 1.0% dari kuartal pertama tahun lalu.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "Q/Q",
-      "full_title": "Quarter over Quarter",
-      "description": "Periode waktu antara kuartal saat ini dengan kuartal sebelumnya. Apabila rilis data GDP meningkat dari 1.0% ke 2.0% secara Q/Q , maka artinya GDP kuartal ini lebih baik 1.0% dari kuartal sebelumnya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "Quarter, Q1, Q2, Q3, Q4",
-      "full_title": null,
-      "description": "Periode 3-bulanan yang sering digunakan sebagai jangka waktu pengukuran suatu rilis data ekonomi. Q1 GDP artinya data GDP yang mencerminkan pertumbuhan ekonomi suatu negara selama kuartal pertama. Berikut adalah pembagian waktu 3-bulanan dalam basis kuartal, Q1: Januari, Februari, Maret, Q2: April, Mei, Juni, Q3: Juli, Agustus, September, Q4: Oktober, November, Desember",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "QTD",
-      "full_title": "Quarter-To-Date",
-      "description": "Periode waktu awal kuartal hingga tanggal sekarang. Apabila pada tanggal 28 Juni terdapat suatu rilis data yang meningkat dari 1.0% ke 2.0% secara QTD, maka data tersebut telah meningkat sebanyak 1.0% dari awal kuartal kedua hingga 28 Juni di tahun yang sama.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "Quote Currency",
-      "full_title": null,
-      "description": "Mata uang referensi, biasanya terletak di bagian belakang dalam penyebutan pasangan (pair) mata uang. Pada EUR/USD, Quote Currency-nya adalah USD.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "Q",
-      "title": "Quote",
-      "full_title": "Kuotasi",
-      "description": "Nilai kurs pada platform trading forex. Quote biasanya merupakan nilai tengah dan bukan merupakan harga yang digunakan untuk eksekusi order.  Broker forex memberikan kuotasi dalam bentuk 4-digit atau 5-digit di belakang tanda desimal. Untuk JPY Pair, kuotasi yang diberikan hanya mencantumkan 2-digit atau 3-digitdi belakan tanda desimal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Range",
-      "full_title": null,
-      "description": "Kisaran pergerakan harga suatu pair (pasangan mata uang) dalam periode tertentu. Sebagai contoh, dalam satu hari GBP/USD bergerak dari level 1.2628 hingga 1.2736. Itu artinya, range GBP/USD pada hari tersebut adalah sebesar 1.2736 - 1.2628 = 108 pips.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Rate",
-      "full_title": null,
-      "description": "Nilai tukar mata uang atau kurs (Exchange Rate). Istilah pendek untuk menyebut tingkat suku bunga (Interest Rate). Laju pertumbuhan yang dinyatakan dalam suatu persentase. Misalnya dalam konteks 'Inflation Rate', maka artinya adalah Laju Inflasi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Real Terms",
-      "full_title": null,
-      "description": "Secara harfiah artinya 'secara riil'. Bila mengacu pada terminologi rilis data ekonomi, istilah ini mewakili jenis penghitungan data secara riil, yaitu data ekonomi yang dikalkulasikan dengan memperhitungkan laju inflasi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Rebate",
-      "full_title": null,
-      "description": "Dalam trading forex, rebate artinya pembagian dari komisi yang diperoleh Introducing Broker (IB) atau afiliasi kepada klien atau trader.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Rebound",
-      "full_title": null,
-      "description": "Kenaikan harga suatu aset dari level rendah, biasanya setelah mengalami kemerosotan signifikan.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Redenominasi",
-      "full_title": null,
-      "description": "Pengurangan nominal uang kertas dan koin di suatu negara. Perubahan ini tidak mengubah nilai riil. Sebagai contoh, Rupiah mengalami redenominasi dari Rp100,000 menjadi Rp100. Apabila sebelumnya seseorang bisa membeli satu tas dengan Rp100,000, maka di kemudian hari ia tetap bisa membeli satu tas tersebut dengan Rp100.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Regulasi, Lisensi",
-      "full_title": null,
-      "description": "Dalam trading forex, istilah ini merujuk pada izin operasional yang dimiliki oleh suatu broker. Regulasi bisa menentukan kualitas suatu broker. Tidak hanya dari keberadaannya, tapi juga dari negara mana regulasi itu berasal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Regulator Forex",
-      "full_title": null,
-      "description": "Lembaga yang berperan memantau operasional usaha dan menjaga ketaatan hukum broker forex di bawah naungan regulasinya. Karena perannya, regulator dianggap menyediakan jaminan perlindungan bagi trader.Regulator seringkali adalah lembaga pemerintah bersifat otonom atau bisa juga berupa asosiasi swadaya. Regulator forex yang memiliki dasar hukum sebagai bentukan pemerintah contohnya Bappebti (Indonesia), ASIC (Australia), dan FCA (Inggris). Regulator seperti ini memiliki legitimasi lebih kuat daripada asosiasi swadaya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Reksadana",
-      "full_title": null,
-      "description": "Suatu produk keuangan yang mewakili golongan aset pilihan investor. Sebelumnya, dana investor akan dikumpulkan di satu akun Manajer Investasi pada suatu lembaga keuangan, untuk kemudian diinvestasikan ke berbagai instrumen investasi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Requote",
-      "full_title": null,
-      "description": "Perubahan kuotasi harga secara tak terduga pada platform trading, sehingga trader tidak bisa mengeksekusi posisi trading pada harga yang diinginkan.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Resistance",
-      "full_title": "Resisten",
-      "description": "Level imajiner di atas harga saat ini dan umumnya ditarik berdasarkan level harga tertinggi sebelumnya. Pelaku pasar diekspektasikan untuk membuka posisi sell apabila harga mencapai level resistance.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Retracement",
-      "full_title": null,
-      "description": "Pembalikan harga sementara di arah yang berlawanan dengan trend utama. Apabila trend utama harga saat ini adalah uptrend, maka retracement biasanya adalah penurunan harga untuk sementara waktu.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Revaluasi",
-      "full_title": null,
-      "description": "Upaya menaikkan atau memperkuat nilai tukar mata uang, mencakup kebijakan-kebijakan yang ditetapkan oleh suatu negara.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Reversal",
-      "full_title": null,
-      "description": "Pembalikan harga dari trend utama. Apabila retracement terus berlanjut hingga tak lagi bisa dikatakan sebagai penurunan atau penguatan sementara, maka harga bisa dianggap mengalami reversal.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Risk Appetite",
-      "full_title": null,
-      "description": "Minat risiko atau naiknya sentimen pelaku pasar untuk berinvestasi pada aset-aset dengan profil risiko tinggi, seperti saham dan mata uang komoditas.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Risk aversion",
-      "full_title": "Risk Avoidance",
-      "description": "Penghindaran risiko atau menurunnya sentimen pelaku pasar secara umum untuk berinvestasi pada aset-aset berisiko lebih tinggi. Biasanya, mereka akan berbalik memburu aset berisiko rendah atau bahkan safe haven seperti emas dan obligasi.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Risk Management",
-      "full_title": null,
-      "description": "Pengelolaan risiko sebagai upaya mengantisipasi dan mengatur kerugian dalam trading, biasanya disesuaikan dengan batas toleransi masing-masing trader. Dalam prakteknya, risk management bisa menggunakan fitur-fitur trading seperti Stop Loss atau Trailing Stop.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "Rollover",
-      "full_title": null,
-      "description": "Posisi trading atau kontrak perdagangan berjangka yang berlanjut pada hari berikutnya.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    },
-    {
-      "alphabet": "R",
-      "title": "RSI",
-      "full_title": "Relative Strength Index",
-      "description": "Relative Strength Index atau indikator teknikal bertipe oscillator yang populer dan dianggap cukup handal. Dibuat oleh Welles Wilder pada tahun 1978, RSI dikenal akan ciri khas grafiknya yang bisa dibatasi oleh level overbought dan oversold.",
-      "category": "trading",
-      "created_at": "2023-03-27",
-      "updated_at": "2023-03-27"
-    }
-  ]
+    "data": [
+        {
+            "alphabet": "A",
+            "title": "Above the market",
+            "full_title": null,
+            "description": "Adalah order untuk menjual aset yang dimiliki di atas harga pasar. Katakanlah harga saham perusahaan ABC hari ini sekitar USD20 per lembar saham. Karena tidak mau rugi, si pemegang saham akan melakukan order bersifat Above The Market, dengan harga USD25 per lembar saham.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Acceleration Theory",
+            "full_title": null,
+            "description": "Adalah hubungan antara tingkat konsumsi dengan investasi modal. Jika permintaan barang konsumsi meningkat, maka permintaan mesin produksi dan investasi modal yang berhubungan juga meningkat.",
+            "category": "investasi",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Accomodation Trading",
+            "full_title": null,
+            "description": "Termasuk aktivitas trading ilegal karena satu pedagang mengakomodasi yang lain dengan memasukkan order pada harga yang tidak kompetitif.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Account Balance",
+            "full_title": null,
+            "description": "Adalah jumlah dana dalam rekening trading klien yang tersimpan di broker. Jika tidak ada posisi terbuka, Balance adalah jumlah asli dana trader. Namun jika ada posisi terbuka, balance yang ada harus dikurangi equity.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Account Statement",
+            "full_title": null,
+            "description": "Laporan berkala dari broker yang berisi tentang status transaksi jual beli seorang nasabah, berikut biaya bulanan maupun keuntungan yang didapatkannya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Account",
+            "full_title": "Akun",
+            "description": "Data pembukuan berisi transaksi klien/nasabah/trader. Secara umum, akun akan mencantumkan saldo, histori trading, profit dan loss, serta Equity (modal yang dimiliki).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "ADX",
+            "full_title": "Average Directional Index Movement",
+            "description": "Salah satu indikator teknikal untuk mengetahui kekuatan tren yang sedang berlangsung di pasar, serta kapan kemungkinan suatu tren akan berubah.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Analisa Fundamental",
+            "full_title": "Analisis Fundamental",
+            "description": "Cara menganalisa pergerakan harga aset di pasar finansial berdasarkan data dan berita ekonomi tertentu. Dalam forex, analisa fundamental berkaitan dengan berita yang mempengaruhi nilai tukar mata uang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Analisa Teknikal",
+            "full_title": "Analisis Teknikal",
+            "description": "Cara menganalisa pergerakan harga suatu aset di pasar finansial menggunakan perangkat statistik, seperti grafik (bar, line, atau candlestick) dan rumus matematis.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Antipodean",
+            "full_title": null,
+            "description": "Istilah untuk menyebut hal-hal yang berhubungan dengan Australia dan New Zealand. Mata uang Antipodean berarti AUD (Australian Dollar) dan NZD (New Zealand Dollar).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Apresiasi",
+            "full_title": null,
+            "description": "Peningkatan nilai suatu mata uang secara terus menerus terhadap mata uang lain. Ketika sebuah mata uang terapresiasi, barang-barang impor cenderung lebih murah. Sebaliknya, barang-barang ekspor cenderung lebih mahal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Arbitrage",
+            "full_title": "Arbitrase",
+            "description": "Dalam konteks pasar finansial, arbitrase adalah strategi trading dengan memanfaatkan perbedaan harga antar instrumen di dua pasar berbeda. Dalam forex, arbitrase adalah strategi untuk mengambil keuntungan dari perbedaan harga antar instrumen di dua broker berbeda.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Aset",
+            "full_title": null,
+            "description": "Segala sesuatu yang dapat dimiliki oleh perusahaan atau individu sebagai wahana investasi, baik berupa aset riil maupun aset finansial.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Ask Price",
+            "full_title": null,
+            "description": "Disebut juga Offer, yaitu harga yang ditawarkan dalam penjualan suatu aset keuangan. Dalam forex, Ask Price adalah harga di mana Anda akan membeli (buy) mata uang dasar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "AUD",
+            "full_title": "Aussie",
+            "description": "Istilah untuk menyebut Dolar Australia (AUD, Australian Dollar). Sebagai salah satu Dolar komoditas, fluktuasi AUD dipengaruhi oleh hasil produksi dalam negeri.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "A",
+            "title": "Averaging",
+            "full_title": null,
+            "description": "Menambah (membuka) posisi trading baru ketika sudah mempunyai satu atau beberapa posisi Floating positif. Teknik Averaging juga disebut Anti-Martingale yang seringkali dilakukan di pasar forex serta saham.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Back Office",
+            "full_title": null,
+            "description": "Salah satu divisi dalam perusahaan broker yang bertugas memproses transaksi keuangan di luar departemen Dealing Room, termasuk mengurus pencatatan dan pembayaran pada klien.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Backwardation",
+            "full_title": null,
+            "description": "Kondisi dimana harga suatu aset finansial di pasar spot lebih tinggi ketimbang harga kontrak futures atau forward saat jatuh tempo.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bail Out",
+            "full_title": null,
+            "description": "Suatu injeksi dana segar nan likuid yang diberikan kepada entitas bangkrut atau hampir bangkrut (contohnya bank atau perusahaan).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Balance of Payment",
+            "full_title": null,
+            "description": "Data ekonomi yang berisi total nilai dana masuk dan keluar suatu negara dalam suatu periode yang mencakup Trade Balance dan Current Account.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Balance Sheet",
+            "full_title": null,
+            "description": "Laporan yang wajib disusun oleh suatu entitas bisnis/perusahaan untuk menggambarkan kekayaan, kewajiban, serta modal di akhir periode akuntansi perusahaan sebenarnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Central Bank",
+            "full_title": "Bank Sentral",
+            "description": "Lembaga yang diberi kewenangan oleh pemerintah suatu negara untuk menangani kebijakan moneter dan stabilitas pasar finansial di negara tersebut, contohnya Bank Indonesia.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bappebti",
+            "full_title": null,
+            "description": "Kepanjangan dari Badan Pengawas Perdagangan Berjangka Komoditi, yakni unit eselon I pada Kementerian Perdagangan Indonesia yang bertugas melaksanakan pembinaan, pengaturan dan pengawasan kegiatan perdagangan berjangka serta pasar fisik dan jasa.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Base Currency",
+            "full_title": null,
+            "description": "Mata uang dasar yang terletak di depan dalam penulisan pasangan mata uang. Contoh Base Currency dalam pair EURUSD adalah Euro.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bearish",
+            "full_title": null,
+            "description": "Merupakan lawan kata dari Bullish. Menunjukkan pelemahan harga secara terus menerus selama periode waktu tertentu. Dalam forex, pasar Bearish disebut juga Downtrend dan seringkali disimpulkan sebagai sinyal Sell.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Benefit",
+            "full_title": null,
+            "description": "Istilah bahasa Inggris yang bisa diterjemahkan sebagai Manfaat (Benefit of Investment: Manfaat Investasi), atau Tunjangan/Subsidi (Jobless Benefits: Tunjangan Pengangguran).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bid Price",
+            "full_title": null,
+            "description": "Harga permintaan atas suatu aset keuangan. Dalam trading forex, Bid Price adalah harga di mana Anda akan menjual (sell) mata uang dasar. Dalam hal ini, harga Bid selalu lebih rendah dari harga Offer/Ask.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Black Swan",
+            "full_title": null,
+            "description": "Peristiwa yang terjadi secara tiba-tiba dan berdampak besar bahkan irasional akibat reaksi pasar finansial yang tidak proporsional.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bollinger Bands",
+            "full_title": null,
+            "description": "Salah satu indikator teknikal yang bersifat overlay pada platform trading. Bollinger Bands merupakan hasil pengembangan Moving Average. Garis tengah BB (middle band) adalah SMA-20, sedangkan garis atas dan garis bawah (Upper dan Lower Band) adalah deviasi Middle Band.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bonds",
+            "full_title": null,
+            "description": "Disebut juga Obligasi, yakni janji tertulis untuk membayar sejumlah uang (pokok pinjaman) pada tanggal tertentu di kemudian hari (jatuh tempo) beserta bunga pinjaman (yield) berdasarkan suku bunga yang telah disepakati di awal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Breakout",
+            "full_title": null,
+            "description": "Kondisi harga yang berhasil menembus area konsolidasi suatu aset. Breakout dalam forex pada dasarnya adalah penembusan harga dari level penting, seperti harga tertinggi (High) atau terendah (Low), Support Resistance, Supply atau Demand Area, hingga level psikologis.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Brexit",
+            "full_title": null,
+            "description": "Gabungan kata 'Britain' dan 'Exit' yang merujuk pada rencana Britania Raya (Inggris) untuk melepaskan diri dari Uni Eropa. Berita tentang Brexit cenderung akan menggerakkan GBP.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Broker",
+            "full_title": null,
+            "description": "Broker adalah orang atau perusahaan yang menjadi perantara transaksi antara investor atau konsumen dengan pasar modal. Broker memiliki lebih banyak pengalaman dan pengetahuan bertransaksi. Untuk transaksi komersial, terutama yang melibatkan barang bernilai tinggi seperti emas, perak, dan dokumen penting melalui internet, akan lebih aman didukung oleh layanan broker.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Broker Forex",
+            "full_title": null,
+            "description": "Adalah perusahaan, institusi, agen, ataupun individu yang bertugas mempertemukan pihak penjual dan pembeli. Broker forex secara khusus artinya perusahaan yang menghubungkan trader dengan pasar interbank untuk bertrading forex.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Budget",
+            "full_title": null,
+            "description": "Adalah anggaran, yaitu rencana keuangan untuk periode tertentu, seringkali satu tahun. Apabila istilah ini dikaitkan dengan negara, maka biasanya merujuk pada APBN (Anggaran Penerimaan dan Belanja Negara).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bullion",
+            "full_title": null,
+            "description": "Istilah untuk menyebut emas, perak, atau komoditas logam lain dalam bentuk fisik, baik koin maupun batangan. Dalam berita ekonomi, bullion biasanya merujuk pada emas.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Bullish",
+            "full_title": null,
+            "description": "Merupakan lawan kata dari Bearish. Menunjukkan penguatan harga secara terus menerus selama periode waktu tertentu. Dalam forex, pasar Bullish disebut juga Uptrend dan seringkali disimpulkan sebagai sinyal Buy.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "B",
+            "title": "Buy Limit",
+            "full_title": null,
+            "description": "Adalah order Buy di bawah harga pasar saat ini. Buy Limit diambil dengan harapan harga mengalami Rebound setelah menyentuh titik Resistance tertentu. Lawan dari Buy Limit adalah Sell Limit.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Cable",
+            "full_title": null,
+            "description": "Nama lain untuk Pound Sterling (GBP). Julukan Cable muncul karena transaksi GBP dengan USD kala itu dilakukan oleh Cable Dealer (broker) menggunakan jaringan kabel Transatlantik pada tahun 1880.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "CAD",
+            "full_title": "Canadian Dollar",
+            "description": "Adalah singkatan dari Dolar Kanada. CAD sering juga disebut Loonie, dimana mata uang ini sangat sensitif dengan pergerakan harga minyak serta emas.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Candlestick",
+            "full_title": null,
+            "description": "Salah satu jenis grafik harga (chart) untuk memetakan dan membaca pergerakan harga di pasar finansial secara teknikal. Candlestick utamanya dibentuk oleh level-level OHLC (Open, High, Low, Close).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Capex",
+            "full_title": null,
+            "description": "Ialah Capital Expenditure, yaitu belanja modal yang dikeluarkan oleh pemerintah (Public Spending, Public Expenditure) atau perusahaan swasta (Corporate Spending, Corporate Expenditure, Private Spending, Private Expenditure).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Carry Trade",
+            "full_title": "Carry Trading",
+            "description": "Strategi trading yang lebih memanfaatkan selisih suku bunga antara dua mata uang yang diperdagangkan, daripada perubahan nilai tukar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "CB",
+            "full_title": "The Conference Board",
+            "description": "Adalah lembaga yang mengeluarkan data mengenai Consumer Confidence. Data CB Consumer Confidence dirilis pada Selasa minggu terakhir setiap bulannya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Ceiling",
+            "full_title": "Ceiling price",
+            "description": "Istilah bahasa Inggris yang digunakan untuk menyebut plafon atau batas atas suatu hal, misalnya plafon kredit atau plafon anggaran.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Cent",
+            "full_title": "Akun Cent",
+            "description": "Menunjukkan nilai 1/100 dari satuan uang yang berlaku. Dalam forex, akun Cent memberi kesempatan untuk deposit dalam jumlah lebih sedikit karena hitungannya menggunakan Cent USD.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "CFD",
+            "full_title": "Contract For Difference",
+            "description": "Merupakan akronim dari Contract For Difference, yaitu kontrak derivatif dalam perdagangan pasar berjangka yang pada dasarnya merupakan turunan dari instrumen keuangan seperti saham, obligasi, komoditas berjangka, serta indeks saham.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Chart",
+            "full_title": null,
+            "description": "Grafik yang menunjukkan pergerakan harga suatu aset finansial, bisa berupa Bar, Line, atau Candlestick. Chart pada forex merepresentasikan harga pembukaan (Open), tertinggi (High), terendah (Low), dan penutupan (Close).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "CHF",
+            "full_title": null,
+            "description": "Singkatan dari Franc Swiss (Schweizer Franken atau Swissy). CHF kerap menjadi mata uang safe haven karena sejarah Franc yang sangat panjang hingga netralnya kebijakan politik negara Swiss.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Close Position",
+            "full_title": null,
+            "description": "Order untuk menutup transaksi yang sedang terbuka (Floating Position) dengan tujuan merealisasikan kerugian maupun keuntungan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Commission",
+            "full_title": "Komisi",
+            "description": "Komisi trading adalah kutipan biaya transaksi yang dibayarkan trader kepada broker untuk setiap lot yang ditradingkan. Bagi broker, komisi trading digunakan sebagai pendapatan, serta membayar biaya ke penyedia likuiditas dan penyedia teknologi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Consumer Spending",
+            "full_title": null,
+            "description": "Diterjemahkan sebagai pengeluaran konsumen atau pengeluaran konsumsi pribadi (PCE), yaitu nilai dari barang dan jasa yang dibeli oleh, atau atas nama, penduduk Amerika Serikat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Contango",
+            "full_title": null,
+            "description": "Situasi ketika harga suatu aset finansial di pasar futures lebih tinggi daripada di pasar spot. Contango merupakan kebalikan dari Backwardation.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "CPI",
+            "full_title": "Customer Price Index",
+            "description": "Merupakan singkatan dari Customer Price Index, yaitu data perubahan harga rata-rata di tingkat konsumen terhadap sejumlah barang dan jasa tertentu. Umumnya, data CPI dibagi menjadi dua, yaitu CPI Inti dan CPI Total.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Cross Currency Pair",
+            "full_title": null,
+            "description": "Trading pada pasangan mata uang mayor non-Dollar, misalnya AUD/CAD (Dolar Australia vs. Dolar Kanada) atau AUD/JPY (Dolar Australia vs Yen Jepang), dan sebagainya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Crowding Out",
+            "full_title": null,
+            "description": "Istilah yang digunakan untuk menunjukkan pengaruh anggaran defisit pada nilai tukar mata uang. Ketika anggaran defisit, maka nilai tukar mata uang suatu negara akan melemah dalam jangka panjang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Crude Inventory",
+            "full_title": "Crude Inventories",
+            "description": "Data ekonomi yang mencatat persediaan (stok) minyak mentah; total minyak mentah yang sudah ditambang dan disimpan dalam tangki penyimpanan untuk kelak dikirim ke pabrik pengilangan dan diolah menjadi Bensin atau lainnya dalam suatu periode tertentu.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "Current Account",
+            "full_title": null,
+            "description": "Ialah Neraca Transaksi Berjalan, suatu data ekonomi yang mencakup transaksi suatu negara dengan negara lain dalam suatu periode, baik ekspor-impor barang dan jasa, investasi keluar-masuk, serta remitansi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "C",
+            "title": "CySEC",
+            "full_title": "Cyprus Securities and Exchange Commission",
+            "description": "Badan pengatur bursa dan lembaga sekuritas sekaligus regulator broker forex di Siprus. Sebagai negara anggota Uni Eropa, peraturan dan operasi keuangan CySEC mematuhi undang-undang harmonisasi keuangan MiFID Eropa.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Day Trading",
+            "full_title": null,
+            "description": "Strategi yang dilakukan trader dengan membuka dan menutup posisi trading dalam hari yang sama, sehingga kepastian Loss/Profit dapat diketahui segera.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "DD",
+            "full_title": "Dealing Desk",
+            "description": "Salah satu jenis broker yang beroperasi dengan pasarnya sendiri dan belum tentu menampilkan nilai tukar (harga) riil seperti yang tersaji di pasar interbank. Broker jenis DD juga kerap disebut broker bandar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Death Cross",
+            "full_title": null,
+            "description": "Adalah crossing (persilangan/perpotongan) dari atas ke bawah antara Moving Average berperiode rendah dengan Moving Average berperiode lebih tinggi. Momen Death Cross seringkali digunakan sebagai pertanda tren Bearish, sehingga bisa dimanfaatkan untuk entry Sell.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Defisit",
+            "full_title": null,
+            "description": "Menggambarkan kondisi negatif pada suatu neraca, misalnya defisit neraca perdagangan artinya impor lebih tinggi daripada ekspor. Lawan dari defisit adalah surplus.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Deflasi",
+            "full_title": null,
+            "description": "Istilah untuk menyebut penurunan harga barang dan jasa secara terus menerus dalam suatu periode tertentu di suatu wilayah. Lawan kata dari deflasi adalah inflasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Demo",
+            "full_title": "Akun Demo",
+            "description": "Jenis akun trading yang disediakan oleh broker forex sebagai media belajar bagi pemula. Melalui akun demo, trader dapat merasakan pengalaman trading secara online seperti sesungguhnya, tetapi tidak beresiko kehilangan uang karena hanya berupa uang mainan (virtual).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Deposit",
+            "full_title": "Deposit Forex",
+            "description": "Sejumlah dana yang harus diberikan kepada broker sebagai modal trading dan menikmati layanan yang diberikan (oleh broker tersebut).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Depresiasi",
+            "full_title": null,
+            "description": "Penurunan nilai suatu mata uang secara terus menerus dibanding mata uang lain. Ketika sebuah mata uang terdepresiasi, barang-barang impor cenderung lebih mahal. Sebaliknya, barang-barang ekspor cenderung lebih murah. Depresiasi merupakan lawan kata dari Apresiasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Devaluasi",
+            "full_title": null,
+            "description": "Devaluasi adalah menurunnya nilai mata uang dalam negeri terhadap mata uang luar negeri. Devaluasi disebabkan oleh tingginya kegiatan impor dan tingkat pengangguran di suatu negara.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Discount",
+            "full_title": null,
+            "description": "Istilah bahasa Inggris yang bisa berarti Diskon, yaitu pengurangan harga dalam persentase tertentu; atau Suku Bunga, yaitu perbandingan antara harga saat ini dengan harga masa depan (dalam bentuk persentase).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Dividen",
+            "full_title": null,
+            "description": "Adalah pembagian laba perusahaan kepada pemegang saham berdasarkan banyaknya saham yang dimiliki secara pro rata. Pembagian dividen biasanya dilakukan setelah RUPST (Rapat Utama Pemegang Saham Tahunan).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Comdoll",
+            "full_title": "Dolar Komoditas, Commodity Dollar",
+            "description": "Istilah untuk menyebut mata uang komoditas, yaitu mata uang yang nilainya sangat dipengaruhi oleh harga komoditas tertentu yang menjadi sumber pendapatan utama suatu negara. Mata uang yang termasuk Comdoll antara lain AUD (Dolar AUstralia), NZD (Dolar New Zealand), dan CAD (Dolar Kanada).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Dollar Cost Averaging",
+            "full_title": null,
+            "description": "Teknik investasi dengan membeli aset secara rutin dalam rentang waktu tertentu. Strategi ini biasanya diterapkan oleh investor saham dan amat efektif bila digunakan untuk saham-saham dengan prospek bagus dalam jangka panjang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Dovish",
+            "full_title": null,
+            "description": "Pernyataan pejabat bank sentral yang merujuk pada keinginan untuk melancarkan atau mempertahankan kebijakan moneter longgar, seperti keengganan untuk menaikkan suku bunga, menambah jumlah stimulus moneter, atau lainnya. Lawan kata Dovish adalah Hawkish, yaitu kebijakan moneter ketat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Dow Jones Index, DJIA",
+            "full_title": null,
+            "description": "Indeks Dow Jones; salah satu indeks saham AS paling terkenal, dianggap secara komprehensif mewakili fluktuasi harga saham AS di semua sektor dan merupakan salah satu indikator dalam analisa intermarket.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Dow Theory",
+            "full_title": null,
+            "description": "Merupakan dasar dari analisa teknikal di pasar keuangan yang dicetuskan oleh Charles H. Dow. Teori ini lantas berkembang menjadi menjadi rujukan di pasar finansial melalui kantor Dow Jones yang secara berkala merilis Dow Jones Index (DJIA).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "D",
+            "title": "Downtrend",
+            "full_title": null,
+            "description": "Suatu kondisi yang menunjukkan penurunan harga secara terus menerus dalam suatu periode tertentu. Kondisi Downtrend disebabkan oleh sentimen Bearish.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "E",
+            "title": "Emas Hitam",
+            "full_title": null,
+            "description": "Sebutan untuk komoditas minyak mentah. Emas hitam juga disebut sebagai minyak bumi, dalam bahasa Inggris diistilahkan dengan Crude Oil.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "E",
+            "title": "Emerging Markets",
+            "full_title": null,
+            "description": "Adalah pasar negara-negara berkembang (berdasarkan PDB-nya). Mata uang negara berkembang disebut Emerging Currencies. Pasar negara berkembang memiliki beberapa karakteristik pasar maju, tetapi tidak memenuhi standar untuk disebut pasar maju.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "E",
+            "title": "Equity",
+            "full_title": null,
+            "description": "Adalah aset yang tersisa setelah Balance dalam akun trader dikurangi atau ditambah nominal keuntungan atau kerugian pada posisi trading yang masih terbuka.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "E",
+            "title": "Euro",
+            "full_title": null,
+            "description": "Mata uang yang dipakai oleh sebagian besar negara di Uni Eropa, khususnya negara-negara Zona Euro. Euro kerap disebut sebagai Single Curency karena digunakan oleh banyak negara.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "E",
+            "title": "Exotic Pair",
+            "full_title": null,
+            "description": "Adalah sebutan untuk pasangan mata uang negara-negara selain mata uang mayor dengan US Dollar, Japanese Yen atau Euro. Contoh Exotic Pair seperti USD/TRY (Dolar AS vs Lira Turki) atau USD/ZAR (Dolar AS vs Rand Afrika Selatan).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "E",
+            "title": "EA",
+            "full_title": "Expert Advisor",
+            "description": "Ialah Robot Trading Forex, yaitu software atau script algoritma yang ditambahkan dalam platform trading forex. Trader kerap menggunakan EA agar dapat melakukan transaksi buy dan sell tanpa instruksi manual pengguna (berjalan otomatis).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "FCA",
+            "full_title": "Financial Conduct Authority",
+            "description": "Singkatan dari Financial Conduct Authority, yaitu salah satu badan pengawas keuangan sekaligus regulator broker forex nan terkemuka di Inggris.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "FFR",
+            "full_title": "Fed Funds Rate",
+            "description": "Suku bunga acuan yang ditentukan oleh The Federal Reserve selaku bank sentral Amerika Serikat. Penentuan suku bunga AS biasanya dilakukan oleh para anggota FOMC.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "FOMC",
+            "full_title": "Federal Open Market Committee",
+            "description": "Komite tertinggi yang mengadakan rapat untuk membahas kebijakan moneter bank sentral AS secara berkala. Anggota FOMC berasal dari para pejabat The Fed, terdiri atas anggota permanen dan anggota bergilir.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "The Fed",
+            "full_title": "Federal Reserve",
+            "description": "Bank sentral Amerika Serikat yang merupakan jaringan dari 12 Federal Reserve Bank beserta cabang-cabangnya. Secara keseluruhan, mereka diawasi oleh dewan gubernur The Fed.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "Financial Statement",
+            "full_title": null,
+            "description": "Dalam bahasa Indonesia disebut Laporan Keuangan; berisi detail mengenai aliran dana perusahaan, asal pendapatan, serta kondisi dana saat ini (berubah menjadi aset, digunakan sebagai modal usaha, atau disimpan sebagai laba).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "Floating",
+            "full_title": null,
+            "description": "Dalam forex, istilah Floating digunakan untuk menyebut posisi terbuka yang belum di close (bisa Floating Profit atau Floating Loss). Sementara pada kondisi trading di broker forex, terdapat istilah Floating Spread yang artinya spread dapat melebar pada kondisi tertentu.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "Floor",
+            "full_title": null,
+            "description": "Dalam ekonomi, istilah Floor Price artinya harga terendah yang ditentukan oleh pemerintah, untuk mencegah pergerakan harga yang tidak terkendali. Floor Price merupakan lawan kata dari Ceiling Price.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "FMA",
+            "full_title": "Financial Market Authority",
+            "description": "Akronim dari Financial Market Authority, badan pengawas pasar keuangan sekaligus regulator forex di New Zealand. FMA merupakan super regulator yang berperan mengembalikan kepercayaan investor setelah banyak perusahaan keuangan gulung tikar dan mengalami krisis finansial global.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "Forex",
+            "full_title": "Foreign Exchange",
+            "description": "Adalah Foreign Exchange atau pertukaran mata uang asing (valas). Sementara trading forex merujuk pada aktivitas perdagangan valas secara online untuk mendapatkan keuntungan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "F",
+            "title": "Free Rider",
+            "full_title": null,
+            "description": "Istilah untuk menyebut sekelompok orang atau golongan yang menggunakan properti publik tanpa memberikan pembayaran nan sesuai. Free Rider bisa juga untuk menyebut orang-orang yang mangkir bayar pajak atau menyatakan pajaknya di bawah nilai kekayaan asli.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "G",
+            "title": "Gain",
+            "full_title": "Capital Gain",
+            "description": "Keuntungan yang diperoleh trader dari selisih harga beli dengan harga jual suatu aset finansial. Capital Gain juga menjadi sumber keuntungan investasi saham di samping Dividen Yield.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "G",
+            "title": "Gap",
+            "full_title": null,
+            "description": "Kondisi kenaikan atau penurunan harga yang tajam pada chart. Pergerakan harga ini menyebabkan kekosongan di antara level harga penutupan sebelumnya dan harga pembukaan, tanpa terjadi transaksi trading, sehingga terbentuk celah (gap).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "G",
+            "title": "GDP",
+            "full_title": "Gross Domestic Product",
+            "description": "Yaitu Gross Domestic Product, atau dalam bahasa Indonesia disebut Produk Domestik Bruto (PDB). GDP adalah indikator fundamental utama untuk mengukur tingkat pertumbuhan ekonomi suatu negara.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "G",
+            "title": "Golden Cross",
+            "full_title": null,
+            "description": "Adalah crossing (persilangan/perpotongan) dari bawah ke atas antara Moving Average berperiode rendah dengan Moving Average berperiode lebih tinggi. Momen Golden Cross seringkali digunakan sebagai pertanda tren Bullish, sehingga bisa dimanfaatkan untuk entry Buy.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hard Currency",
+            "full_title": null,
+            "description": "Istilah untuk menyebut mata uang yang nilainya mempengaruhi nilai mata uang lain. Hal ini terjadi karena negara asalnya termasuk negara maju dengan sistem pemerintahan yang kuat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hawkish",
+            "full_title": null,
+            "description": "Pernyataan pejabat bank sentral yang merujuk kecenderungan melancarkan atau mempertahankan kebijakan moneter ketat, seperti menaikkan suku bunga, mengurangi stimulus moneter, dan lain sebagainya. Lawan kata dari Hawkish adalah Dovish, yaitu kebijakan moneter longgar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hedge Fund",
+            "full_title": null,
+            "description": "Perusahaan pengelola aset investasi yang menghimpun dana dari masyarakat (sebagai investor) untuk dikelola secara privat, bebas memanfaatkan leverage tinggi, maupun mengalokasikan dana kelolaan ke berbagai aset berisiko seperti futures atau options. Tujuan Hedge Fund adalah memperoleh imbal hasil tertentu, yang kemudian dibagi antara pihak Hedge Fund dengan investor.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "H",
+            "title": "Hedging",
+            "full_title": null,
+            "description": "Upaya yang dilakukan investor atau trader untuk membatasi kerugian di pasar keuangan, dengan melakukan transaksi jual dan beli sekaligus pada suatu aset finansial yang sama.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Ichimoku Kinko Hyo",
+            "full_title": null,
+            "description": "Salah satu indikator teknikal yang berfungsi untuk mengetahui tren sekaligus menemukan sinyal trading potensial hanya dalam sekali pandang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Indeks Saham",
+            "full_title": null,
+            "description": "Indikator yang menggambarkan performa pasar saham pada periode tertentu. Dengan adanya indeks, tren harga saham saat ini dapat dipantau. Kenaikan sebagian besar harga saham yang tergabung dalam suatu indeks bisa mendongkrak nilai indeks tersebut.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Indikator Ekonomi",
+            "full_title": null,
+            "description": "Data statistik yang digunakan oleh analis dan pelaku pasar untuk mengetahui kondisi ekonomi terkini maupun memproyeksikan peluang ekonomi di masa depan. Indikator ekonomi juga dapat digunakan untuk menentukan sehat-tidaknya perekonomian suatu negara.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Indikator Teknikal",
+            "full_title": null,
+            "description": "Alat yang dibuat berdasarkan perhitungan matematis atas histori harga, volume, atau minat pasar terhadap sebuah instrumen investasi atau kontrak keuangan. Penggunaan indikator teknikal bertujuan untuk memprediksi pergerakan harga di masa depan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Inflasi",
+            "full_title": null,
+            "description": "Suatu kondisi yang menggambarkan kenaikan harga barang dan jasa secara terus menerus dalam suatu periode tertentu di suatu wilayah. Lawan kata Inflasi adalah Deflasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Initial Margin",
+            "full_title": null,
+            "description": "Deposit awal yang perlu disetorkan oleh trader agar dapat mulai bertransaksi. Deposit-deposit selanjutnya cukup disebut sebagai margin dan berfungsi agar trader bisa mempertahankan posisi tradingnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "IB",
+            "full_title": "Introducing Broker",
+            "description": "Sistem kerjasama yang paling sederhana antara broker dengan pihak ketiga untuk memasarkan produk dan merekrut klien (nasabah). Tugas utama pihak ketiga (IB) yaitu mengumpulkan klien untuk broker. Sebagai gantinya, IB akan memperoleh imbalan (reward).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "I",
+            "title": "Investor",
+            "full_title": null,
+            "description": "Sebutan untuk sekelompok orang yang menempatkan dananya dalam instrumen investasi jangka panjang seperti real estate (properti), industri skala besar maupun kecil, atau berinvestasi di pasar keuangan untuk ditahan dalam jangka panjang (di atas 3 tahun).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "January Effect",
+            "full_title": null,
+            "description": "Anomali yang terjadi ketika harga-harga saham naik pada bulan Januari. Pelaku pasar membeli saham-saham pada harga murah sebelum Januari, lalu menjualnya setelah harga naik.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "Jawboning",
+            "full_title": null,
+            "description": "Istilah bahasa Inggris untuk menyebut pernyataan yang dikeluarkan oleh pejabat otoritas moneter (bank sentral) suatu negara dengan tujuan untuk melemahkan nilai mata uangnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "Joint Account",
+            "full_title": null,
+            "description": "Akun rekening yang dikelola bersama, misalnya rekening tabungan atau giro. Joint Account biasa digunakan oleh pasangan suami istri, perusahaan, atau dua pihak yang bekerjasama.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "J",
+            "title": "JPY",
+            "full_title": null,
+            "description": "Sebutan untuk mata uang Jepang (Yen Jepang, Japanese Yen). Yen Jepang juga sering disebut sebagai Safe Haven bersama CHF, karena ketika pasar bearish, para investor Jepang merepatriasi sejumlah uang yang mereka investasikan di luar Jepang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kalender Forex",
+            "full_title": "Kalender Ekonomi",
+            "description": "Kalender yang memuat jadwal rilis berbagai data ekonomi maupun peristiwa penting terkait kebijakan moneter dan fiskal dari negara-negara yang mata uangnya diperdagangkan dalam pasar forex.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kebijakan Ekonomi",
+            "full_title": null,
+            "description": "Keputusan praktis atau perundangan yang dikeluarkan oleh otoritas di suatu negara dalam bidang ekonomi. Dalam ekonomi, terdapat dua jenis kebijakan, yaitu kebijakan moneter dan kebijakan fiskal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kebijakan Fiskal",
+            "full_title": null,
+            "description": "Kebijakan yang dibuat oleh pemerintah dan berkaitan dengan anggaran pendapatan dan belanja negara (APBN). Termasuk dalam cakupan kebijakan fiskal antara lain perpajakan, obligasi, gaji PNS, subsidi, dan lain sebagainya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kebijakan Moneter",
+            "full_title": "Monetary Policy",
+            "description": "Kebijakan terkait jumlah uang beredar, biasanya diambil oleh Bank Sentral atau Otoritas Moneter suatu negara. Kebijakan Moneter secara umum terbagi menjadi Kebijakan Moneter Ketat (Tight Monetary Policy) dan Kebijakan Moneter Longgar (Loose Monetary Policy).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "K",
+            "title": "Kontraksi",
+            "full_title": "Contraction",
+            "description": "Terjemahan dari istilah bahasa Inggris 'Contraction' atau 'Contracted', artinya perlambatan atau penurunan. Istilah kontraksi digunakan untuk menggambarkan terjadinya perlambatan perekonomian secara umum, bisa pada suatu perusahaan, atau dalam satu sektor ekonomi tertentu. Lawan kata dari Kontraksi adalah Ekspansi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Likuidasi",
+            "full_title": null,
+            "description": "Penutupan posisi trading yang masih terbuka oleh trader ataupun sistem secara otomatis. Dalam dunia investasi, likuidasi terjadi ketika seorang investor memutuskan untuk menutup posisinya pada sebuah aset/instrumen.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Likuiditas",
+            "full_title": null,
+            "description": "Ketersediaan dana di sebuah perusahaan, atau ketersediaan dana yang memperdagangkan suatu aset di pasar keuangan. Dalam dunia trading, likuiditas juga bisa diartikan sebagai kemampuan sebuah aset diperdagangkan di pasar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Limit Order",
+            "full_title": "Limit-Entry Order",
+            "description": "Jenis order dalam trading forex dimana trader melakukan entry Buy di bawah harga pasar sekarang, atau Sell di atas harga pasar sekarang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Liquidity Provider",
+            "full_title": "Penyedia Likuiditas",
+            "description": "Lembaga atau institusi finansial di dalam jaringan broker dengan pasar forex, di mana setiap agensi mereka akan terus-menerus mentransmisikan harga permintaan dan penawaran sesuai dengan harga pasar terkini.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Live Account, Real Account, Akun Live, Akun Riil",
+            "full_title": null,
+            "description": "Jenis akun trading dimana trader harus menyetorkan sejumlah dana sebagai modal awal (Initial Margin) sebelum mulai trading. Namun sebelum trading di akun riil, trader disaranka berlatih di akun Demo terlebih dahulu untuk melatih kondisi psikologis.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Long Position",
+            "full_title": null,
+            "description": "Tindakan mengambil posisi BUY (membeli suatu aset) ketika pasar sedang Bullish. Long position artinya trader atau investor ingin mendapatkan keuntungan dari kenaikan nilai suatu aset. Kebalikan dari Long Position adalah Short Position.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "L",
+            "title": "Lot",
+            "full_title": null,
+            "description": "Standar ukuran per transaksi di pasar keuangan. Di Bursa Efek Indonesia, 1 lot = 100 lembar saham. Dalam trading forex, 1 lot standar sama dengan 100,000 unit. Ada pula ukuran trading yang lebih kecil, antara lain lot mini, lot mikro, dan lot nano.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "MACD",
+            "full_title": "Moving Average Convergence Divergence",
+            "description": "Singkatan dari Moving Average Convergence Divergence, yaitu indikator teknikal yang berfungsi menunjukkan arah tren dan momentum harga aset di pasar keuangan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Margin",
+            "full_title": null,
+            "description": "Sejumlah dana yang perlu disetorkan trader sebagai jaminan agar bisa bertransaksi pada broker yang memberikan fasilitas leverage bagi nasabahnya. Terdapat dua jenis margin, yaitu Free Margin dan Used Margin.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Margin Call",
+            "full_title": null,
+            "description": "Fasilitas broker yang memperingatkan trader jika ekuitas akun trading sudah tidak mencukupi nilai margin yang dibutuhkan untuk membuka posisi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Martingale",
+            "full_title": null,
+            "description": "Strategi trading berdasarkan teori probabilitas, dimana trader forex akan menggandakan posisi tradingnya apabila harga bergerak ke arah yang berlawanan dengan prediksi awal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Micro Lot",
+            "full_title": null,
+            "description": "Ukuran lot bernilai seperseratus dari lot standar, yaitu USD 1,000. Dengan leverage 1:100, margin yang dibutuhkan hanya USD 10.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Money Flow Index",
+            "full_title": null,
+            "description": "Indikator Oscillator yang aplikasinya mirip Relative Strength Index (RSI). Dengan menyertakan faktor besaran volume, indikator MFI lebih mencerminkan dinamika pergerakan pasar yang tidak hanya terpatok pada harga saja.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "MM",
+            "full_title": "Money Management",
+            "description": "Pengelolaan dana trading yang bertujuan mengoptimalkan keuntungan dan membatasi risiko, serta menjaga modal tidak cepat ludes. Dengan demikian, trader mampu bertahan meski terjadi kerugian.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Moving Average",
+            "full_title": null,
+            "description": "Indikator teknikal bersifat overlay dan berbentuk garis yang ditumpukkan di atas chart. Semakin panjang periode Moving Average, maka pergerakan garis akan makin lambat (lagging) dibandingkan harga.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "M",
+            "title": "Moving Average",
+            "full_title": null,
+            "description": "Indikator teknikal bersifat overlay dan berbentuk garis yang ditumpukkan di atas chart. Semakin panjang periode Moving Average, maka pergerakan garis akan makin lambat (lagging) dibandingkan harga.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NASDAQ",
+            "full_title": null,
+            "description": "Bursa saham AS yang mayoritas emitennya berasal dari sektor teknologi. Pergerakan indeks NASDAQ cenderung mudah terpengaruh oleh isu-isu seputar teknologi. Berdasarkan kapitalisasinya, NASDAQ merupakan bursa saham terbesar kedua dunia setelah bursa saham New York (NYSE).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NDD",
+            "full_title": null,
+            "description": "Jenis broker forex yang menyalurkan order klien ke pasar (Electronic Communication Network/ECN) atau menghubungkan order ke broker ECN yang lebih besar (Straight Through Processing/STP).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "Neckline",
+            "full_title": null,
+            "description": "Garis yang membatasi area bawah pada pola Head and Shoulders. Dalam pola Inverted Head and Shoulders, Neckline menjadi garis yang membatasi area atas. Neckline menjadi acuan penting untuk entry dengan pola Head and Shoulders.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "New Home Sales",
+            "full_title": null,
+            "description": "Data penjualan rumah baru di AS yang bisa berada dalam tahap konstruksi apapun, baik itu belum dimulai, sedang dibangun, atau sudah selesai dbangun. New Home Sales biasa digunakan sebagai salah satu indikator dalam mengukur kondisi pasar properti di Amerika Serikat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "Nikkei",
+            "full_title": null,
+            "description": "Disebut sebagai Nikkei 225 (N225), indeks ini terdiri dari kumpulan saham terdaftar di Bursa Efek Tokyo. Nikkei mengumpulkan 225 saham Blue Chip dari 225 perusahaan terkemuka di Jepang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "No Deposit Bonus",
+            "full_title": "Bonus Tanpa Deposit",
+            "description": "Penawaran broker forex yang memberikan sejumlah dana kepada trader sebagai deposit akun. Aturan pada No Deposit Bonus terkait syarat penarikan dan masa berlaku promo sangat penting diperhatikan oleh trader.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NFP",
+            "full_title": "Non Farm Payroll",
+            "description": "Data perubahan jumlah ketenagakerjaan AS yang mengecualikan sektor pemerintahan (PNS), pegawai rumah tangga, non-profit atau nirlaba (LSM), dan pertanian. NFP AS mencerminkan kondisi tenaga kerja di sektor komersil dan industri di AS, serta berdampak tinggi pada pergerakan Dolar AS karena menjadi salah satu dasar The Fed dalam menuntukan kebijakan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NYMEX",
+            "full_title": "New York Mercantile Exchange",
+            "description": "Bursa komoditas berjangka terbesar di dunia yang berbasis di New York. Pada dasarnya, NYMEX merupakan singkatan dari New York Mercantile Exchange. Perusahaan di balik NYMEX adalah NYMEX Holdings, Inc. yang didirikan sejak tahun 1882. Saat ini, perusahaan tersebut sudah melantai di bursa saham New York (NYSE) dengan kode emiten NMX. NYMEX Holdings, Inc. juga sudah terdaftar di badan pengawas CFTC.Beragam komoditas yang diperdagangkan di NYMEX meliputi Aluminum, Batubara, Tembaga, Minyak Mentah, Tenaga listrik, Bensin, Emas, Minyak Bakar, Gas Alam, Paladium, Platina, Propana, dan Perak.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NYSE",
+            "full_title": "New York Stock Exchange",
+            "description": "Berlokasi di Wall Street, NYSE atau New York Stock Exchange adalah Bursa Efek New York dengan jumlah saham perusahaan yang terdaftar mencapai 2,400. NYSE adalah bursa efek terbesar di dunia jika dilihat dari total kapitalisasi pasar perusahaan-perusahaannya. Saham-saham yang diperdagangkan di NYSE memiliki indeks tergabung dalam NYSE Composite. Kode NYSE di bursa perdagangan adalah NYA.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "N",
+            "title": "NZD",
+            "full_title": "New Zealand Dollar",
+            "description": "NZD atau New Zealand Dollar adalah mata uang Selandia Baru. Bersama dengan Dolar Australia, mata uang ini disebut sebagai mata uang Antipodean. Pergerakan harga NZD cenderung dipengaruhi oleh harga susu karena New Zealand adalah eksportir produk olahan susu terbesar di dunia.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "OCO Order",
+            "full_title": "One-Cancel-the-Other",
+            "description": "Merupakan jenis order dalam trading forex. Pada dasarnya, OCO memungkinkan trader untuk menempatkan order dengan harga dan durasi berbeda di atas dan di bawah harga saat ini. Ketika salah satu order dieksekusi, maka order satunya akan dibatalkan. Jenis order ini tidak tersedia di semua broker.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Offer",
+            "full_title": null,
+            "description": "Harga yang ditawarkan dalam suatu transaksi di pasar finansial. Disebut juga sebagai Ask Price atau harga di mana trader akan membeli (Buy) mata uang dasar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "OP",
+            "full_title": "Open Position",
+            "description": "Membuka transaksi di platform trading. Pada umumnya, open posisi ada dua jenis, yakni Long Position (posisi Buy) dan Short Position (posisi Sell). Namun ada juga pembukaan posisi pending (tertunda) yang memungkinkan trader untuk menetapkan target harga terlebih dulu sebelum order tereksekusi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Options",
+            "full_title": null,
+            "description": "Dalam perdagangan di pasar finansial, Options bisa merujuk pada kependekan dari Stock Options, yaitu sebuah kontrak yang memberikan hak kepada investor untuk membeli atau menjual suatu saham pada harga dan tanggal tertentu, tetapi mereka tak wajib melaksanakan hak tersebut.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Order",
+            "full_title": null,
+            "description": "Instruksi untuk mengeksekusi perdagangan forex pada level harga tertentu di sistem platform trading. Terdapat dua jenis order utama yaitu Buy dan Sell, disamping jenis-jenis order pelengkap seperti Stop Order, Limit Order, dan OCO Order.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "oto order",
+            "full_title": "One-Triggers-the-Other",
+            "description": "Salah satu jenis order pelengkap di platform trading forex. Kebalikan dari OCO Order, penempatan transaksi dengan OTO melibatkan 2 posisi trading dengan harga dan durasi berbeda. Ketika salah satu ordernya dieksekusi, maka order satunya akan ikut terbuka secara otomatis.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Overheating",
+            "full_title": null,
+            "description": "Dalam konteks ekonomi, overheating adalah situasi ketika kapasitas produksi di suatu negara tak mampu memenuhi permintaan agregat. Dengan kata lain, sisi produksi tak mampu mengejar pertumbuhan sisi konsumsi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Overnight",
+            "full_title": null,
+            "description": "Posisi trading yang terbuka hingga keesokan harinya. Secara teknis, overnight position mencatat posisi yang masih terbuka saat melewati tengah malam berdasarkan waktu server broker.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Oversold, Overbought",
+            "full_title": null,
+            "description": "Overbought merupakan kondisi dimana harga naik dan mencapai level tertentu sehingga mengalami jenuh beli. Oversold adalah situasi ketika harga turun hingga level tertentu dan mengalami keadaan jenuh jual.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "O",
+            "title": "Overtrading, Over Trading, Overtrade",
+            "full_title": null,
+            "description": "Melakukan trading secara berlebihan, baik dengan membuka satu posisi trading dalam jumlah lot besar, atau membuka terlalu banyak posisi dalam satu waktu. Disebabkan oleh emosi trading yang kurang stabil, overtrading disebabkan oleh salah satu atau kedua skenario berikut: Serakah mengejar profit, Bernafsu mengganti kerugian dari posisi loss.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pair",
+            "full_title": null,
+            "description": "Pasangan dua mata uang yang terdiri dari mata uang suatu negara dengan mata uang negara lain. Nilai pasangan mata uang merupakan nilai tukar mata uang terhadap mata uang negara lain. Dalam pair GBP/USD misalnya, mencerminkan nilai tukar GBP (Pound Inggris) terhadap USD (Dolar AS).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pair Mayor",
+            "full_title": null,
+            "description": "Pasangan mata uang asing yang paling sering diperdagangkan di pasar forex.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "PAMM",
+            "full_title": "Percentage Allocation Module Management",
+            "description": "Percentage Allocation Module Management, merupakan skema investasi yang menghubungkan investor dengan trader profesional dengan sistem keuntungan bagi hasil.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Parabolic SAR",
+            "full_title": null,
+            "description": "Indikator teknikal yang diciptakan oleh J Welles Wilder dan tampil sebagai titik-titik yang berlokasi di atas atau di bawah harga. Parabolic SAR termasuk dalam keluarga indikator tren harga, dan perpindahan sinyal titiknya dianggap sebagai penunjuk reversal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Parity",
+            "full_title": "Paritas",
+            "description": "Terminologi ekonomi secara umum: kesetaraan harga, nilai tukar, daya beli, atau upah. Terminologi forex secara khusus: kondisi ketika nilai tukar dua mata uang berada pada posisi 1:1.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pegging",
+            "full_title": null,
+            "description": "Patokan yang digunakan oleh otoritas moneter untuk menentapkan batas maksimal atau minimal nilai tukar suatu mata uang terhadap mata uang lainnya. Contohnya, Swiss pernah menentukan pegging 1 EUR = 1.20 CHF. Nilai tukar yang dipegging (pegged exchange rate) dapat disebut sebagai fixed exchange rate. Untuk mengaplikasikannya, bank sentral harus mengatur peredaran uang serta memonitor Supply dan Demand secara ketat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pending Order",
+            "full_title": null,
+            "description": "Jenis order dalam trading forex yang menentukan entry di level berbeda dari harga sekarang. Sehingga, order akan ter-pending dulu sebelum harga menyentuh level entry yang ditargetkan dan memicu eksekusi order. Empat jenis pending order dalam forex yang paling umum adalah: Buy Limit: Buy di level lebih rendah dari harga sekarang. Sell Limit: Sell di level lebih tinggi dari harga sekarang. Buy  Sell Stop: Sell di level lebih rendah dari harga sekarang.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Penny Stock",
+            "full_title": null,
+            "description": "Julukan untuk saham berharga sangat murah. Penny Stock di AS biasanya adalah saham-saham berharga kurang dari USD5 per lembar. Sementara jika di Indonesia, saham-saham yang masuk dalam jenis Penny Stock berharga Rp50 per lembar atau lebih rendah.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pip, Pips",
+            "full_title": null,
+            "description": "Satuan terkecil untuk mewakili perubahan harga dalam trading forex. Apabila nilai GBP/USD berubah dari 1.2688 ke 1.2687, maka artinya terdapat penurunan nilai sebesar 1 pip.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pipette",
+            "full_title": null,
+            "description": "Satuan terkecil harga pasangan mata uang, dengan nilai sepersepuluh pip yang mewakili perubahan harga dalam trading forex. Pipette biasanya muncul sebagai digit ke-5 setelah tanda desimal dalam suatu pair (digit ke-3 untuk pair-pair JPY), mengikuti pip yang muncul sebagai digit ke-4 setelah tanda desimal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Platform Trading",
+            "full_title": null,
+            "description": "Fasilitas trading yang memungkinkan trader mengatur dan mengeksekusi order secara real-time di pasar forex. Platform trading biasanya dipasang sebagai aplikasi di PC atau Smartphone, bisa pula dibuka sebagai halaman web di browser. Fasilitas ini wajib disediakan broker forex untuk para tradernya. Selain memiliki fitur untuk mengatur dan memasang order, platform juga umum dilengkapi dengan chart harga real-time dan berbagai tool analisa. Contoh platform yang umum ditawarkan adalah MetaTrader (dari MetaQuotes), cTrader (dari SpotWare), dan jenis platform yang dikembangkan sendiri oleh broker (proprietary).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Point",
+            "full_title": null,
+            "description": "Sebutan lain untuk pipette yang merupakan satuan terkecil dalam perubahan harga. Point bernilai sepersepuluh lebih kecil dari pip dan bisa dilihat pada pair-pair yang diperdagangkan di platform trading dengan sistem pricing 5 digit di belakang tanda desimal (3 digit pada pair-pair JPY).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Portofolio",
+            "full_title": null,
+            "description": "Kombinasi aset finansial yang bisa mencakup saham, obligasi (bonds), komoditas, dan aset lainnya. Dimiliki oleh seorang investor, manajer investasi, perusahaan, atau lembaga finansial lainnya, portofolio biasanya diklasifikasikan menurut risikonya: rendah (konservatif), sedang (moderat), atau tinggi (agresif).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Price Action",
+            "full_title": null,
+            "description": "Pergerakan harga suatu aset atau suatu pasangan mata uang. Dalam praktiknya, Price Action menjadi istilah khusus untuk metode analisa teknikal berdasarkan pergerakan harga di masa lampau. Trader berupaya menemukan pola dalam pergerakan harga yang sepintas tampak acak, sehingga Price Action sering dikaitkan dengan analisa pola candlestick. Namun, tak jarang pula Price Action dianggap mencakup analisa price pattern.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Profit/Loss, P/L, Gain/Loss",
+            "full_title": null,
+            "description": "Salah satu kolom dalam histori akun di platform trading. Profit/Loss secara khusus menampilkan besarnya keuntungan atau kerugian untuk posisi trading yang sudah ditutup (closed position).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Public Debt",
+            "full_title": null,
+            "description": "Data ekonomi yang melaporkan utang pemerintah. Jenis utang lain yang diperhatikan dalam publikasi data ekonomi adalah utang swasta, yang juga disebut sebagai Corporate Debt atau Private Debt.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "P",
+            "title": "Pullback",
+            "full_title": null,
+            "description": "Kondisi dimana harga bergerak berlawanan dari trend utama untuk sementara waktu. Apabila harga sedang uptrend, maka pullback adalah penurunan singkat. Bila harga sedang downtrend, maka pullback adalah kenaikan singkat sebelum harga kembali turun. Pullback juga kerap diartikan sebagai koreksi atau Retracement.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "QAR",
+            "full_title": null,
+            "description": "Simbol Qatari Riyal atau mata uang yang digunakan secara resmi di Qatar. Mata uang ini menggantikan Riyal Qatar dan Dubai ketika Dubai masuk ke Uni Emirat Arab pada tahun 1973.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "Qualitative Analysis",
+            "full_title": null,
+            "description": "Metode analisa trading yang didasarkan pada pendapat ahli, sentimen pasar, data ekonomi, berita, dan indikator-indikator sejenis yang bisa memberikan pertimbangan secara kualitatif untuk memahami bias pasar dan menemukan peluang transaksi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "QE",
+            "full_title": "Quantitative Easing",
+            "description": "Metode analisa trading yang didasarkan pada pendapat ahli, sentimen pasar, data ekonomi, berita, dan indikator-indikator sejenis yang bisa memberikan pertimbangan secara kualitatif untuk memahami bias pasar dan menemukan peluang transaksi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "Quantitative Trading",
+            "full_title": null,
+            "description": "Strategi trading yang bergantung pada perhitungan matematis untuk mendeteksi peluang trading. Fokus Quantitative Trading biasnaya tertuju pada Harga dan Volume. Termasuk dalam jenis strategi ini adalah High-Frequency Trading dan Algorithmic Trading yang sering diaplikasikan oleh institusi finansial dan lembaga Hedge Fund.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "QoQ",
+            "full_title": "Quarter on Quarter",
+            "description": "Standar periode waktu antara kuartal saat ini dengan kuartal yang sama di tahun sebelumnya. Apabila rilis GDP kuartal pertama meningkat dari 1.0% ke 2.0% secara QoQ, maka artinya GDP kuartal pertama tahun ini lebih baik 1.0% dari kuartal pertama tahun lalu.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "Q/Q",
+            "full_title": "Quarter over Quarter",
+            "description": "Periode waktu antara kuartal saat ini dengan kuartal sebelumnya. Apabila rilis data GDP meningkat dari 1.0% ke 2.0% secara Q/Q , maka artinya GDP kuartal ini lebih baik 1.0% dari kuartal sebelumnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "Quarter, Q1, Q2, Q3, Q4",
+            "full_title": null,
+            "description": "Periode 3-bulanan yang sering digunakan sebagai jangka waktu pengukuran suatu rilis data ekonomi. Q1 GDP artinya data GDP yang mencerminkan pertumbuhan ekonomi suatu negara selama kuartal pertama. Berikut adalah pembagian waktu 3-bulanan dalam basis kuartal, Q1: Januari, Februari, Maret, Q2: April, Mei, Juni, Q3: Juli, Agustus, September, Q4: Oktober, November, Desember",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "QTD",
+            "full_title": "Quarter-To-Date",
+            "description": "Periode waktu awal kuartal hingga tanggal sekarang. Apabila pada tanggal 28 Juni terdapat suatu rilis data yang meningkat dari 1.0% ke 2.0% secara QTD, maka data tersebut telah meningkat sebanyak 1.0% dari awal kuartal kedua hingga 28 Juni di tahun yang sama.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "Quote Currency",
+            "full_title": null,
+            "description": "Mata uang referensi, biasanya terletak di bagian belakang dalam penyebutan pasangan (pair) mata uang. Pada EUR/USD, Quote Currency-nya adalah USD.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Q",
+            "title": "Quote",
+            "full_title": "Kuotasi",
+            "description": "Nilai kurs pada platform trading forex. Quote biasanya merupakan nilai tengah dan bukan merupakan harga yang digunakan untuk eksekusi order.  Broker forex memberikan kuotasi dalam bentuk 4-digit atau 5-digit di belakang tanda desimal. Untuk JPY Pair, kuotasi yang diberikan hanya mencantumkan 2-digit atau 3-digitdi belakan tanda desimal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Range",
+            "full_title": null,
+            "description": "Kisaran pergerakan harga suatu pair (pasangan mata uang) dalam periode tertentu. Sebagai contoh, dalam satu hari GBP/USD bergerak dari level 1.2628 hingga 1.2736. Itu artinya, range GBP/USD pada hari tersebut adalah sebesar 1.2736 - 1.2628 = 108 pips.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Rate",
+            "full_title": null,
+            "description": "Nilai tukar mata uang atau kurs (Exchange Rate). Istilah pendek untuk menyebut tingkat suku bunga (Interest Rate). Laju pertumbuhan yang dinyatakan dalam suatu persentase. Misalnya dalam konteks 'Inflation Rate', maka artinya adalah Laju Inflasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Real Terms",
+            "full_title": null,
+            "description": "Secara harfiah artinya 'secara riil'. Bila mengacu pada terminologi rilis data ekonomi, istilah ini mewakili jenis penghitungan data secara riil, yaitu data ekonomi yang dikalkulasikan dengan memperhitungkan laju inflasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Rebate",
+            "full_title": null,
+            "description": "Dalam trading forex, rebate artinya pembagian dari komisi yang diperoleh Introducing Broker (IB) atau afiliasi kepada klien atau trader.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Rebound",
+            "full_title": null,
+            "description": "Kenaikan harga suatu aset dari level rendah, biasanya setelah mengalami kemerosotan signifikan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Redenominasi",
+            "full_title": null,
+            "description": "Pengurangan nominal uang kertas dan koin di suatu negara. Perubahan ini tidak mengubah nilai riil. Sebagai contoh, Rupiah mengalami redenominasi dari Rp100,000 menjadi Rp100. Apabila sebelumnya seseorang bisa membeli satu tas dengan Rp100,000, maka di kemudian hari ia tetap bisa membeli satu tas tersebut dengan Rp100.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Regulasi, Lisensi",
+            "full_title": null,
+            "description": "Dalam trading forex, istilah ini merujuk pada izin operasional yang dimiliki oleh suatu broker. Regulasi bisa menentukan kualitas suatu broker. Tidak hanya dari keberadaannya, tapi juga dari negara mana regulasi itu berasal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Regulator Forex",
+            "full_title": null,
+            "description": "Lembaga yang berperan memantau operasional usaha dan menjaga ketaatan hukum broker forex di bawah naungan regulasinya. Karena perannya, regulator dianggap menyediakan jaminan perlindungan bagi trader.Regulator seringkali adalah lembaga pemerintah bersifat otonom atau bisa juga berupa asosiasi swadaya. Regulator forex yang memiliki dasar hukum sebagai bentukan pemerintah contohnya Bappebti (Indonesia), ASIC (Australia), dan FCA (Inggris). Regulator seperti ini memiliki legitimasi lebih kuat daripada asosiasi swadaya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Reksadana",
+            "full_title": null,
+            "description": "Suatu produk keuangan yang mewakili golongan aset pilihan investor. Sebelumnya, dana investor akan dikumpulkan di satu akun Manajer Investasi pada suatu lembaga keuangan, untuk kemudian diinvestasikan ke berbagai instrumen investasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Requote",
+            "full_title": null,
+            "description": "Perubahan kuotasi harga secara tak terduga pada platform trading, sehingga trader tidak bisa mengeksekusi posisi trading pada harga yang diinginkan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Resistance",
+            "full_title": "Resisten",
+            "description": "Level imajiner di atas harga saat ini dan umumnya ditarik berdasarkan level harga tertinggi sebelumnya. Pelaku pasar diekspektasikan untuk membuka posisi sell apabila harga mencapai level resistance.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Retracement",
+            "full_title": null,
+            "description": "Pembalikan harga sementara di arah yang berlawanan dengan trend utama. Apabila trend utama harga saat ini adalah uptrend, maka retracement biasanya adalah penurunan harga untuk sementara waktu.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Revaluasi",
+            "full_title": null,
+            "description": "Upaya menaikkan atau memperkuat nilai tukar mata uang, mencakup kebijakan-kebijakan yang ditetapkan oleh suatu negara.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Reversal",
+            "full_title": null,
+            "description": "Pembalikan harga dari trend utama. Apabila retracement terus berlanjut hingga tak lagi bisa dikatakan sebagai penurunan atau penguatan sementara, maka harga bisa dianggap mengalami reversal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Risk Appetite",
+            "full_title": null,
+            "description": "Minat risiko atau naiknya sentimen pelaku pasar untuk berinvestasi pada aset-aset dengan profil risiko tinggi, seperti saham dan mata uang komoditas.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Risk aversion",
+            "full_title": "Risk Avoidance",
+            "description": "Penghindaran risiko atau menurunnya sentimen pelaku pasar secara umum untuk berinvestasi pada aset-aset berisiko lebih tinggi. Biasanya, mereka akan berbalik memburu aset berisiko rendah atau bahkan safe haven seperti emas dan obligasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Risk Management",
+            "full_title": null,
+            "description": "Pengelolaan risiko sebagai upaya mengantisipasi dan mengatur kerugian dalam trading, biasanya disesuaikan dengan batas toleransi masing-masing trader. Dalam prakteknya, risk management bisa menggunakan fitur-fitur trading seperti Stop Loss atau Trailing Stop.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "Rollover",
+            "full_title": null,
+            "description": "Posisi trading atau kontrak perdagangan berjangka yang berlanjut pada hari berikutnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "R",
+            "title": "RSI",
+            "full_title": "Relative Strength Index",
+            "description": "Relative Strength Index atau indikator teknikal bertipe oscillator yang populer dan dianggap cukup handal. Dibuat oleh Welles Wilder pada tahun 1978, RSI dikenal akan ciri khas grafiknya yang bisa dibatasi oleh level overbought dan oversold.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Safe Haven",
+            "full_title": null,
+            "description": "Aset investasi dengan tingkat risiko rendah. Beberapa contohnya adalah Emas, Obligasi (khususnya Obligasi Pemerintah AS), Franc Swiss, Yen Jepang, dsb. Ketika perekonomian global tidak menentu, banyak pelaku pasar mengalihkan dana ke aset-aset ini.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Saham",
+            "full_title": null,
+            "description": "Surat berharga yang mewakili kepemilikan atas ekuitas suatu perusahaan. Saham dapat diperjualbelikan secara langsung antara penjual dan pembeli maupun di bursa efek. Seorang pemilik saham dapat memperoleh imbal hasil berupa Dividen dan Capital Gain.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Scalping",
+            "full_title": null,
+            "description": "Metode trading yang menargetkan profit kecil dengan frekuensi tinggi, melalui cara buka tutup posisi beberapa kali dalam sehari. Untuk memperoleh hasil yang diinginkan, trader umumnya berpatokan time frame rendah (M15-H1) sehingga Scalping dianggap sebagai strategi trading jangka pendek dalam forex.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Scam",
+            "full_title": null,
+            "description": "Penipuan yang merugikan, baik secara moriil maupun materiil. Dalam forex, label scam umumnya berlaku untuk pihak broker, penjual sinyal trading, maupun penjual robot yang menipu klien.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Segregated Account",
+            "full_title": null,
+            "description": "Pemisahan dana nasabah dari dana operasional broker. Diaplikasikan untuk menjamin keamanan dana nasabah dalam transaksi trading forex, karena pemisahan dana memungkinkan kelancaran pembayaran komisi dan biaya lain terkait trading yang dilakukan oleh trader, dan meminimalisir peluang penyalahgunaan dana nasabah oleh broker.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Sentimen Pasar",
+            "full_title": null,
+            "description": "Sikap para pelaku pasar yang merupakan kesepakatan bersama (konsensus) untuk mengantisipasi pergerakan harga dalam suatu kondisi tertentu. Sentimen pasar bisa bersifat bullish, bearish, atau netral.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Settlement",
+            "full_title": null,
+            "description": "Penempatan transaksi trader oleh broker (dealer) sesuai harga dan volume yang telah ditentukan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Short Covering",
+            "full_title": null,
+            "description": "Menutup posisi short (sell) atau hedging atas posisi short yang telah dibuka. Short covering biasanya merupakan tindakan para investor atau spekulan di pasar finansial.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Short Position",
+            "full_title": null,
+            "description": "Transaksi yang ditempatkan oleh para trader atau investor untuk mendapatkan keuntungan dari penurunan harga. Istilah Short Position juga bisa disebut sebagai posisi sell atau jual, dan merupakan kebalikan dari Long Position.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Sinyal Trading",
+            "full_title": null,
+            "description": "Update analisa trading yang memberikan saran untuk membuka posisi trading (buy/sell) pada harga dan jangka waktu tertentu. Sinyal trading biasanya ditawarkan oleh broker atau analis forex, baik secara berbayar maupun gratis.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Soft Currency",
+            "full_title": null,
+            "description": "Jenis mata uang yang nilainya kurang stabil karena mudah dipengaruhi nilai mata uang lain. Mayoritas Soft Currency diterbitkan oleh negara yang kondisi Neraca Berjalannya tidak stabil atau bahkan defisit, misalnya Rupiah, Ringgit, dan sejenisnya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Spread",
+            "full_title": null,
+            "description": "Selisih harga jual (bid) dan beli (ask) yang ditampilkan pada platform trading forex. Besaran spread bisa bervariasi di setiap broker, dan terdiri dari berbagai jenis (fixed, floating, dan zero).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Stop Loss",
+            "full_title": null,
+            "description": "Nilai yang ditentukan oleh trader untuk membatasi kerugian. Saat harga menyentuh Stop Loss, maka sistem platfom secara otomatis akan menutup order atau posisi trading terkait dengan kerugian, sehingga trader tidak perlu terus memantau platform untuk bersiap-siap menutup posisi saat kerugian mencapai level tertentu.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Super Contango",
+            "full_title": null,
+            "description": "Disebut juga sebagai Forwardation, istilah ini merujuk pada kondisi harga-harga komoditas saat ini (spot) yang lebih murah dibanding harga komoditas berjangkanya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Support",
+            "full_title": null,
+            "description": "Level imajiner yang berada di bawah harga saat ini, umumnya ditarik berdasarkan level-level harga terendah sebelumnya. Ketika mencapai Support, harga kerap diekspektasikan untuk memantul naik.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Swap",
+            "full_title": null,
+            "description": "Selisih suku bunga acuan antara dua negara yang mata uangnya diperdagangkan di pasar forex secara berpasangan. Swap hanya berlaku untuk posisi menginap lewat tengah malam (rollover) sesuai waktu server broker. Besarannya bisa berbeda tergantung dari jenis posisi yang dibuka (Long atau Short).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Swing Trading",
+            "full_title": null,
+            "description": "Strategi trading yang menargetkan keuntungan semaksimal mungkin, dan dilakukan dengan menempatkan posisi Buy atau Sell pada titik pembalikan harga.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "S",
+            "title": "Switching",
+            "full_title": null,
+            "description": "Switching dalam trading futures berarti melakukan rolling dengan menutup kontrak yang akan jatuh tempo dalam waktu dekat, kemudian langsung membuka kontrak yang akan jatuh tempo di bulan berikutnya. Sedangkan dalam forex, switching adalah menutup suatu posisi yang merugi dan membuka posisi sebaliknya.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        }
+    ]
 }
