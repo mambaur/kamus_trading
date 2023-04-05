@@ -2069,6 +2069,105 @@
             "category": "trading",
             "created_at": "2023-03-27",
             "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "Uang Dingin",
+            "full_title": null,
+            "description": "Uang yang dialokasikan untuk investasi dan tidak terpakai untuk memenuhi kebutuhan sehari-hari ataupun kebutuhan darurat. Trader dan investor wajib menggunakan uang dingin sebagai modal trading dan investasi, untuk menghindari beban psikologis saat bertransaksi. Pada gilirannya nanti, antisipasi ini bisa menjadi faktor penting yang menentukan kesuksesan trading maupun investasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "UK Oil",
+            "full_title": null,
+            "description": "Minyak Brent (Brent Crude Oil) yang harganya menjadi salah satu patokan untuk mengukur pergerakan harga minyak mentah dunia.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "UK100",
+            "full_title": null,
+            "description": "Sebutan untuk indeks saham FTSE 100 yang terdiri atas saham-saham blue-chip di LSE (London Stock Exchange)",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "Underlying Asset",
+            "full_title": null,
+            "description": "Pada suatu pasar derivatif, underlying asset merupakan aset finansial yang mendasari harga di pasar tersebut. Misalnya, underlying asset dari option saham X adalah saham X itu sendiri.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "Unemployment Rate",
+            "full_title": null,
+            "description": "Tingkat pengangguran, yang merupakan persentase antara jumlah tenaga kerja yang sedang tidak bekerja dan aktif mencari pekerjaan, dengan jumlah total tenaga kerja selama periode waktu tertentu. Ini merupakan salah satu data ketenagakerjaan berdampak tinggi yang diperhatikan di pasar forex.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "UoM Consumer Sentiment Index",
+            "full_title": null,
+            "description": "Indeks kepercayaan konsumen AS yang diolah dari hasil survei lembaga independen University of Michigan's Institute for Social Research. Bersama data rilisan CB (The Conference Board), UoM Consumer Sentiment Index merupakan salah satu data indeks kepercayaan konsumen AS yang paling utama dan diperhatikan pasar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "Uptick",
+            "full_title": null,
+            "description": "Perubahan harga terkecil yang menunjukkan kenaikan dari harga sebelumnya. Contohnya, EUR/USD naik dari 1.2800 ke 1.2850 merupakan suatu uptick.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "Uptrend",
+            "full_title": null,
+            "description": "Kondisi dimana harga mengalami trend naik atau bullish, dan ditandai dengan serangkaian Higher High (HH) dan Higher Low (HL).Uptrend seringkali dimanfaatkan untuk mencari peluang Buy bagi mereka yang mengikuti trend (trend follower). Sementara trader yang menerapkan strategi reversal biasanya menunggu momen tepat untuk Sell dari Uptrend yang akan berakhir.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "US 10-Year Treasury, US10Y",
+            "full_title": null,
+            "description": "Yield obligasi pemerintah AS berjangka waktu 10 tahun. Pergerakan yield obligasi ini sering diperhatikan oleh para pelaku pasar karena dianggap mewakili suku bunga, mempengaruhi bunga hipotek, dan merupakan indikator sentimen investor. Inversi kurva US10Y dengan yield obligasi berjangka lebih pendek seringkali dianggap sebagai pertanda resesi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "US30",
+            "full_title": null,
+            "description": "Nama indeks saham Dow Jones yang terdiri dari 30 saham perusahaan dengan kapitalisasi terbesar dan paling berpengaruh di Amerika Serikat. Indeks saham Dow Jones juga dikenal sebagai DJIA (Dow Jones Industrial Average).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "USD",
+            "full_title": "United States Dollar",
+            "description": "United States Dollar, mata uang Dolar Amerika Serikat yang juga disebut Greenback. Sebagai mata uang mayor yang paling banyak digunakan di dunia, pergerakan USD menjadi acuan untuk mengukur performa instrumen lainnya. Mata uang mayor GBP, JPY, EUR, AUD, NZD, CHF, dan CAD yang berpasangan dengan Dolar Amerika Serikat disebut sebagai Pair Mayor.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
         }
     ]
 }
