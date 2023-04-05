@@ -1952,6 +1952,123 @@
             "category": "trading",
             "created_at": "2023-03-27",
             "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Tahun Fiskal",
+            "full_title": null,
+            "description": "Periode tahunan untuk pembukuan anggaran belanja dan pendapatan negara atau perusahaan. Penentuan periodenya berbeda-beda sesuai kebijakan negara atau perusahaan terkait, tidak selalu dimulai tanggal 1 Januari dan berakhir pada 31 Desember.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Taper Tantrum",
+            "full_title": null,
+            "description": "Reaksi kepanikan pasar merespon kabar tapering yang merupakan pengurangan kebijakan moneter longgar. Ketika The Fed (bank sentral AS) merencanakan tapering di tahun 2013, terjadi taper tantrum yang membuat investor ramai-ramai menarik dana dari pasar obligasi, sehingga yield obligasi melonjak drastis. Namun keaadan ini berlangsung sementara, karena begitu pasar menyadari tak ada alasan untuk panik, yield perlahan kembali normal.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Tapering",
+            "full_title": null,
+            "description": "Kebijakan bank sentral yang ditujukan untuk mengurangi aktivitas moneternya. Biasanya menandai normalisasi kebijakan moneter longgar untuk kemudian menjadi pengetatan moneter.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Target Profit, Take Profit",
+            "full_title": null,
+            "description": "Jumlah keuntungan yang ditentukan trader saat membuka suatu posisi trading. Dalam praktiknya, Target Profit (TP) telah diadopsi sebagai suatu fitur dalam dalam platform trading yang memungkinkan trader untuk mengatur level tertentu sebagai target keuntungan, sehingga posisi trading akan tertutup otomatis apabila harga sudah menyentuh level tersebut.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Tax Haven",
+            "full_title": null,
+            "description": "Istilah untuk menyebut negara-negara yang menerapkan pajak sangat rendah hingga nol persen. Disebut juga sebagai Wilayah Suaka Pajak, Tax Haven biasanya berlokasi di negara kepulauan atau kawasan otonom dengan aturan keuangan yang biasanya lebih longgar daripada negara induknya. Inilah mengapa, Tax Haven umum dikenal sebagai 'kawasan offshore'. Contoh Tax Haven: Siprus, Belize, Panama, British Virgin Islands, Mauritius.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Tick",
+            "full_title": null,
+            "description": "Perubahan harga terkecil, mirip dengan pip dalam trading forex. Untuk konteks perdagangan di aset lain, tick bisa menggunakan skala yang berbeda-beda. Contohnya, apabila 1 tick = 0.01, berarti perubahan harga dari 200.00 ke 201.00 sama dengan 100 tick. Namun apabila 1 tick = 0.25, berarti perubahan harga dari 200.00 ke 201.00 adalah sama dengan 4 tick.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Trade Balance",
+            "full_title": null,
+            "description": "Data ekonomi yang menampilkan selisih Ekspor dan Impor suatu negara, disebut juga dengan Neraca Perdagangan atau Neraca Dagang. Rilis data ini biasanya berdampak tinggi dan diperhatikan oleh pelaku pasar forex, terutama untuk mengukur proyeksi nilai tukar mata uang suatu negara yang berbasis ekspor.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Trade Size",
+            "full_title": null,
+            "description": "Ukuran trading atau besar transaksi perdagangan. Dalam trading forex, trade size dilambangkan dalam satuan lot yang terdiri dari sejumlah unit mata uang. Biasanya, 1 lot terdiri dari 100,000 USD.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Trader",
+            "full_title": null,
+            "description": "Seseorang yang melakukan transaksi di pasar finansial untuk mendapatkan keuntungan dari selisih nilai beli dan jual (atau sebaliknya). Karena itu, trader seringkali dikaitkan dengan aktivitas transaksi jangka pendek, berbeda dengan investor yang memiliki orientasi jangka panjang karena bertujuan memperoleh keuntungan dari penambahan nilai suatu aset.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Trailing Stop",
+            "full_title": null,
+            "description": "Fitur dalam platform trading forex yang memungkinkan trader untuk memindahkan Stop Loss secara otomatis mengikuti pergerakan harga.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Transaction Cost",
+            "full_title": null,
+            "description": "Biaya atas transaksi beli atau jual suatu aset di pasar finansial. Biaya ini dapat berupa spread, komisi, atau bahkan kombinasi keduanya. Pengenaan biaya transaksi biasanya berbeda-beda tergantung pada kebijakan broker.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Trend",
+            "full_title": null,
+            "description": "Pergerakan harga di suatu arah, bisa berupa kenaikan ataupun penurunan. Trend naik (uptrend) ditandai oleh serangkaian Higher High dan Higher Low, sementara trend turun (downtrend) muncul dari beberapa Lower High dan Lower Low.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "T",
+            "title": "Trendline",
+            "full_title": null,
+            "description": "Garis yang menghubungkan titik-titik level terendah harga yang naik (Higher Low) secara berurutan, atau titik-titik level tertinggi yang turun secara beruntun (Lower High). Trendline membantu trader mengenali dan mengkonfirmasi trend naik atau turun. Dari penembusan atau pengujian harga di trendline, trader juga bisa menentukan peluang entry maupun exit.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
         }
     ]
 }
