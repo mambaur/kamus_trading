@@ -2168,6 +2168,294 @@
             "category": "trading",
             "created_at": "2023-03-27",
             "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "US 10-Year Treasury, US10Y",
+            "full_title": null,
+            "description": "Yield obligasi pemerintah AS berjangka waktu 10 tahun. Pergerakan yield obligasi ini sering diperhatikan oleh para pelaku pasar karena dianggap mewakili suku bunga, mempengaruhi bunga hipotek, dan merupakan indikator sentimen investor. Inversi kurva US10Y dengan yield obligasi berjangka lebih pendek seringkali dianggap sebagai pertanda resesi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "US Oil",
+            "full_title": null,
+            "description": "Sebutan untuk WTI (West Texas Intermediate), minyak mentah yang diproduksi di Amerika Utara. Harga WTI menjadi salah satu patokan harga minyak mentah dunia sejak sekitar tahun 2007.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "US30",
+            "full_title": null,
+            "description": "Nama indeks saham Dow Jones yang terdiri dari 30 saham perusahaan dengan kapitalisasi terbesar dan paling berpengaruh di Amerika Serikat. Indeks saham Dow Jones juga dikenal sebagai DJIA (Dow Jones Industrial Average).",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "U",
+            "title": "USD",
+            "full_title": null,
+            "description": "United States Dollar, mata uang Dolar Amerika Serikat yang juga disebut Greenback. Sebagai mata uang mayor yang paling banyak digunakan di dunia, pergerakan USD menjadi acuan untuk mengukur performa instrumen lainnya. Mata uang mayor GBP, JPY, EUR, AUD, NZD, CHF, dan CAD yang berpasangan dengan Dolar Amerika Serikat disebut sebagai Pair Mayor.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "V",
+            "title": "Value Date",
+            "full_title": null,
+            "description": "Dalam suatu transaksi di pasar finansial secara umum, Value Date adalah tanggal yang disepakati sebagai batas waktu penyelesaian kewajiban.Sementara dalam forex, Value Date juga dikenal sebagai Maturity Date (Tanggal Jatuh Tempo); tanggal yang ditentukan oleh pialang untuk kebutuhan transaksi atau pembayaran jatuh tempo dengan periode normal dua hari kerja.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "V",
+            "title": "Vanilla Options",
+            "full_title": null,
+            "description": "Jenis trading option paling dasar karena hanya dilakukan dengan mentransaksikan option sebagai hak untuk membeli atau menjual suatu instrumen.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "V",
+            "title": "VIX",
+            "full_title": "Volatility Index",
+            "description": "Volatility Index (indeks volatilitas harga) rilisan Chicago Board Options Exchange (CBOE), yang menunjukkan ekspektasi market untuk volatilitas selama 30 hari dan dibuat berdasarkan volatilitas option indeks S&P 500 di AS. VIX dalam penggunaannya menjadi salah satu indikator sentimen pasar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "V",
+            "title": "Volatilitas",
+            "full_title": null,
+            "description": "Jarak antara naik turunnya harga suatu aset, yang mengindikasikan besar perubahan harga pada suatu periode tertentu.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "V",
+            "title": "Volume",
+            "full_title": null,
+            "description": "Besaran transaksi yang diperdagangkan oleh semua pelaku pasar. Volume tidak bisa ditentukan secara pasti di forex karena pasarnya tidak terpusat. Meskipun demikian, volume harian pasar forex diperkirakan menjadi yang terbesar jika dibandingkan dengan volume pasar aset lainnya, karena mencapai mencapai lebih dari $4 triliun per hari.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "V",
+            "title": "VPS, Virtual Private Server",
+            "full_title": null,
+            "description": "Server yang bisa diakses secara jarak jauh melalui internet. Trader forex pengguna robot trading (EA) biasa menggunakan VPS untuk mengoptimalkan kinerja EA. VPS bisa didapatkan baik secara gratis ataupun berbayar.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "Webinar",
+            "full_title": null,
+            "description": "Seminar online yang mempertemukan seluruh pesertanya secara virtual. Meskipun tidak melakukan tatap muka secara fisik, Webinar efektif untuk mengakomodasi kebutuhan belajar trading forex atau seminar lain yang anggotanya berasal dari berbagai lokasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "Wedge",
+            "full_title": null,
+            "description": "Pola chart yang menyerupai pola triangle dan flag. Wedge bisa mengindikasikan pembalikan atau penerusan trend harga, tergantung pada kondisi trend sebelum pola terbentuk. Wedge terdiri dari Falling Wedge dan Rising Wedge. Falling Wedge yang terjadi setelah Uptrend menandakan penerusan trend naik, sementara yang terjadi setelah Downtrend mengindikasikan pembalikan ke arah atas. Rising Wedge setelah Uptrend menandakan pembalikan ke arah bawah, sedangkan terbentuknya pola setelah Downtrend merupakan sinyal penerusan trend turun.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "Whipsaw",
+            "full_title": null,
+            "description": "Pola pergerakan harga dengan volatilitas tinggi dan fluktuasi tak menentu. Menandakan kepanikan pasar, Whipsaw menandai fluktuasi harga di suatu arah dengan cepat dan kemudian berbalik secara tiba-tiba.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "White Label",
+            "full_title": null,
+            "description": "Individu atau perusahaan yang memiliki merek dagang sendiri dan bertujuan merekrut trader untuk bergabung dengan suatu broker tertentu.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "Wholesale Prices",
+            "full_title": null,
+            "description": "Indikator ekonomi yang mengukur harga barang-barang di tingkat grosir. Wholesale Prices dan Wholesale Sales menjadi indikator awal untuk penjualan ritel, pengeluaran konsumen, dan tingkat inflasi.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "Win Rate",
+            "full_title": null,
+            "description": "Tingkat kemenangan, Win Ratio, angka persentase profit, atau tingkat profit yang dapat digunakan untuk mengukur performa trader ataupun penerapan sistem trading. Dinyatakan dalam persentase, Win Rate dihitung perbandingan posisi yang profit dengan seluruh posisi yang telah ditutup dalam suatu periode tertentu.Apabila seorang trader membuka 20 posisi dalam waktu 1 minggu dan memiliki 10 posisi yang ditutup dengan profit, maka ia memiliki Win Rate sebesar 50%.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "Wire Transfer",
+            "full_title": null,
+            "description": "Metode pengiriman uang antar bank lintas negara. Proses deposit dan withdrawal di broker forex secara konvensional dilakukan dengan Wire Transfer. Namun karena dilakukan dalam lingkup mancanegara, Wire Transfer memiliki biaya transaksi yang tinggi dan durasi transfer yang relatif lama.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "Withdrawal, Withdraw, WD",
+            "full_title": null,
+            "description": "Proses penarikan dana dari akun trading. Tujuan akhir withdrawal adalah untuk mencairkan dana ke rekening klien. Withdrawal bisa dilakukan dengan beberapa metode seperti transfer bank, kartu kredit, dan e-payment.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "WSJ",
+            "full_title": "The Wall Street Journal",
+            "description": "Singkatan The Wall Street Journal, media yang kerap dijadikan sebagai referensi informasi di pasar finansial.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "W",
+            "title": "WTI",
+            "full_title": null,
+            "description": "West Texas Intermediate atau US OIL yang merupakan minyak bumi dari Amerika Utara. WTI kebanyakan digunakan untuk produk bensin, dan banyak diminati (terutama di AS dan China) karena lebih ringan dan mudah diolah. Harga WTI merupakan salah satu harga acuan untuk mengukur pergerakan harga minyak dunia.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "X",
+            "title": "XAG",
+            "full_title": null,
+            "description": "Simbol untuk komoditas perak (silver). Secara terminologi, X adalah simbol metal sementara AG diambil dari bahasa Lain 'Argentum' yang berarti 'perak'. 1 XAG mewakili 1 troy ons perak.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "X",
+            "title": "XAU",
+            "full_title": null,
+            "description": "Simbol untuk komoditas emas (gold). Secara terminologi, X merupakan simbol metal sementara AU diambil dari bahasa Latin 'Aurum' yang berarti 'emas'. XAU sudah distandarisasi oleh ISO 4217 sebagai simbol yang mewakili 1 troy ons emas.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "X",
+            "title": "Xenocurrency",
+            "full_title": null,
+            "description": "Mata uang yang beredar dan digunakan dalam transaksi di luar negara asalnya. Sebagai contoh: Yen Jepang adalah Xenocurrency jika digunakan dalam transaksi jual beli di Amerika Serikat.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Y",
+            "title": "YoY",
+            "full_title": "Year over Year",
+            "description": "Periode waktu antara tahun ini dengan tahun sebelumnya, biasanya dipakai untuk pengukuran data yang membandingkan data tahun ini dengan tahun sebelumnya (basis tahunan).Sebagai contoh: apabila inflasi meningkat dari 1.1% ke 1.2% secara YoY, artinya terdapat pertumbuhan sebesar 0.1% secara tahunan.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Y",
+            "title": "YTD",
+            "full_title": "Year over Year",
+            "description": "Periode waktu yang dimulai dari awal tahun (bisa juga tahun fiskal) hingga saat ini. Contohnya: Suatu data ekonomi dirilis pada tanggal 15 Maret dengan peningkatan dari 1.0% ke 1.5% secara YTD. Hal itu berarti selama 1 Januari hingga 15 Maret di tahun yang sama, data meningkat sebanyak 0.5%.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Y",
+            "title": "Yield",
+            "full_title": null,
+            "description": "Imbal hasil dalam bentuk bunga. Jika suatu aset memiliki Yield 5%, artinya bunga yang bisa dihasilkan aset tersebut adalah sebesar 5%, baik dihitung dari jumlah investasi terhadap aset tersebut, nilai terkini, ataupun nilai nominal dari aset terkait.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Y",
+            "title": "Yield Curve",
+            "full_title": null,
+            "description": "Kurva imbal hasil yang mencerminkan selisih antara bunga obligasi bertenor pendek dan panjang. Contohnya adalah Yield Curve untuk obligasi pemerintah AS yang membandingkan imbal hasil obligasi bertenor 3-bulanan (jangka pendek) dan 10-tahunan (jangka panjang). Yield Curve yang menunjukkan kondisi Inverted (terbalik) dimana imbal hasil obligasi jangka pendek berada di atas imbal hasil obligasi jangka panjang biasanya diartikan sebagai pertanda resesi ekonomi AS.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Y",
+            "title": "Yield Curve Control",
+            "full_title": null,
+            "description": "Upaya bank sentral untuk mengendalikan kemiringan Yield Curve melalui perhitungan ulang program pembelian obligasi, sehingga mereka bisa menentukan apakah akan lebih banyak membeli obligasi jangka pendek atau jangka panjang. Ini merupakan kebijakan moneter yang baru diperkenalkan oleh Bank of Japan (BoJ) pada akhir 2016, dan bisa dianggap sebagai salah satu bentuk kebijakan longgar bank sentral.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Z",
+            "title": "ZAR",
+            "full_title": "Zuid-Afrikaanse Rand",
+            "description": "Mata uang Afrika Selatan, singkatan dari Zuid-Afrikaanse Rand. Mata uang ini menggantikan Pound Afrika Selatan dan menandai era perubahan Union of South Africa menjadi Republic of South Africa.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Z",
+            "title": "Zero Spread",
+            "full_title": null,
+            "description": "Kebijakan broker untuk menerapkan spread mulai dari 0 pip. Zero Spread biasanya digantikan oleh komisi trading yang dihitung dari nilai transaksi trader.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Z",
+            "title": "ZEW",
+            "full_title": "Zentrum fur Europaische Wirtschaftsforschung",
+            "description": "Salah satu institut penelitian ekonomi terkemuka di Eropa, yang secara berkala mengadakan survei terhadap ratusan investor dan analis mengenai pandangan terhadap perekonomian Eropa untuk 6 bulan ke depan. ZEW merupakan singkatan dari Zentrum fur Europaische Wirtschaftsforschung (Centre for European Economic Research). Hasil survei ZEW secara resmi disebut sebagai ZEW Economic Sentiment dan biasanya berdampak tinggi terhadap pergerakan mata uang Euro.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
+        },
+        {
+            "alphabet": "Z",
+            "title": "Zig Zag",
+            "full_title": null,
+            "description": "Jenis indikator teknikal yang garis-garisnya memiliki sudut sesuai titik pembalikan harga. indikator Zig Zag memiliki perhitungan dan fungsi yang mirip dengan Parabolic SAR.",
+            "category": "trading",
+            "created_at": "2023-03-27",
+            "updated_at": "2023-03-27"
         }
     ]
 }
