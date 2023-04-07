@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:kamus_investasi/databases/dictionaries/dictionary_repository.dart';
 import 'package:kamus_investasi/utils/json_configuration.dart';
 
@@ -6,16 +7,18 @@ class DataSets {
 
   Future<bool> initDictionaries() async {
     int totalDictionary = await _dictionaryRepo.count();
-    print("Total dictionary = " + totalDictionary.toString());
+    if (kDebugMode) print("Total dictionary = $totalDictionary");
     // print(dictionariesJson['data'].length);
-    if (totalDictionary != 593) {
+    if (totalDictionary != 273) {
       await _dictionaryRepo.deleteAll();
 
       Map<String, dynamic> dictionariesJson =
           await JsonConfiguration.parseJsonFromAssets(
               'assets/datasets/dictionaries.json');
       for (var i = 0; i < dictionariesJson['data'].length; i++) {
-        print(i.toString() + " " + dictionariesJson['data'][i]['title']);
+        if (kDebugMode) {
+          print("$i ${dictionariesJson['data'][i]['title']}");
+        }
         await _dictionaryRepo.insert({
           'alphabet': dictionariesJson['data'][i]['alphabet'],
           'title': dictionariesJson['data'][i]['title'],

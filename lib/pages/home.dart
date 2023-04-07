@@ -77,7 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 width: 30,
                                 height: 30,
                                 child: CircularProgressIndicator(
-                                    color: Color.fromRGBO(65, 83, 181, 1))),
+                                    color: Color.fromRGBO(14, 17, 17, 1))),
                           )
                         : Container(),
                     onLoadingStart: (page) async {
@@ -186,12 +186,12 @@ class _HomeScreenState extends State<HomeScreen> {
                   )
                 : Center(child: Text('Kata tidak ditemukan!')),
             Container(
-              color: Color.fromRGBO(65, 83, 181, 1),
+              color: Color.fromRGBO(14, 17, 17, 1),
               width: size.width,
               height: size.height * 0.2,
               child: Center(
                 child: Text(
-                  'Kamus Investasi',
+                  'Kamus Trading',
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,

@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.caraguna.kamus.trading">
    <application
-        android:label="Kamus Investasi"
+        android:label="Kamus Trading"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-2465007971338713~6728542724"/>
+            android:value="ca-app-pub-2465007971338713~1215399155"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

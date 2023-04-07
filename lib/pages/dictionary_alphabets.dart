@@ -23,7 +23,7 @@ class _DictionaryAlphabetsScreenState extends State<DictionaryAlphabetsScreen> {
         title: Text(widget.alphabet ?? ''),
         centerTitle: true,
         elevation: 0,
-        backgroundColor: Color.fromRGBO(65, 83, 181, 1),
+        backgroundColor: Color.fromRGBO(14, 17, 17, 1),
       ),
       body: FutureBuilder<List<DictionaryModel>>(
         future: _dictionaryRepo.getAllDictionaryAlphabets(

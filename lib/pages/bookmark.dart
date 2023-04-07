@@ -79,7 +79,7 @@ class _BookmarkScreenState extends State<BookmarkScreen> {
           automaticallyImplyLeading: false,
           centerTitle: true,
           elevation: 0,
-          backgroundColor: Color.fromRGBO(65, 83, 181, 1),
+          backgroundColor: Color.fromRGBO(14, 17, 17, 1),
           actions: [
             IconButton(
                 onPressed: () {
@@ -91,7 +91,7 @@ class _BookmarkScreenState extends State<BookmarkScreen> {
         backgroundColor: Colors.grey.shade100,
         body: RefreshIndicator(
           backgroundColor: Colors.white,
-          color: Color.fromRGBO(65, 83, 181, 1),
+          color: Color.fromRGBO(14, 17, 17, 1),
           displacement: 20,
           onRefresh: () => _refresh(),
           child: !isEmptyDictionary
@@ -105,7 +105,7 @@ class _BookmarkScreenState extends State<BookmarkScreen> {
                               width: 30,
                               height: 30,
                               child: CircularProgressIndicator(
-                                  color: Color.fromRGBO(65, 83, 181, 1))),
+                                  color: Color.fromRGBO(14, 17, 17, 1))),
                         )
                       : Container(),
                   onLoadingStart: (page) async {

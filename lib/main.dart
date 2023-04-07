@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:google_mobile_ads/google_mobile_ads.dart';
+// import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:kamus_investasi/pages/bookmark.dart';
 import 'package:kamus_investasi/pages/feedback.dart';
@@ -11,7 +11,7 @@ import 'package:upgrader/upgrader.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  MobileAds.instance.initialize();
+  // MobileAds.instance.initialize();
   runApp(const MyApp());
 }
 
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Kamus Indonesia',
+      title: 'Kamus Trading',
       theme: ThemeData(
         textTheme: GoogleFonts.ralewayTextTheme(
           Theme.of(context).textTheme,
@@ -116,7 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ],
               currentIndex: _selectedIndex,
-              selectedItemColor: Color.fromRGBO(65, 83, 181, 1),
+              selectedItemColor: Color.fromRGBO(14, 17, 17, 1),
               onTap: _onItemTapped,
             ),
           )
@@ -126,7 +126,7 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 CircularProgressIndicator(
-                  color: Color.fromRGBO(65, 83, 181, 1),
+                  color: Color.fromRGBO(14, 17, 17, 1),
                 ),
                 SizedBox(
                   height: 20,

@@ -21,7 +21,7 @@ class _FeedbackScreenState extends State<FeedbackScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromRGBO(65, 83, 181, 1),
+      backgroundColor: Color.fromRGBO(14, 17, 17, 1),
       body: Center(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,

@@ -3,6 +3,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+// import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:kamus_investasi/databases/bookmarks/bookmark_repository.dart';
 import 'package:kamus_investasi/databases/dictionaries/dictionary_repository.dart';
@@ -113,7 +114,7 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
       // test banner
       // adUnitId: 'ca-app-pub-3940256099942544/6300978111',
       //
-      adUnitId: 'ca-app-pub-2465007971338713/1073462187',
+      adUnitId: 'ca-app-pub-2465007971338713/4470998327',
       size: AdSize.banner,
       request: const AdRequest(),
       listener: listener(),
@@ -125,7 +126,7 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
 
   @override
   void dispose() {
-    myBanner!.dispose();
+    // myBanner!.dispose();
     super.dispose();
   }
 
@@ -140,7 +141,7 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
           // IconButton(onPressed: () {}, icon: Icon(Iconsax.share)),
           // IconButton(onPressed: () {}, icon: Icon(Iconsax.sound))
         ],
-        backgroundColor: Color.fromRGBO(65, 83, 181, 1),
+        backgroundColor: Color.fromRGBO(14, 17, 17, 1),
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.symmetric(vertical: 15, horizontal: 15),
@@ -200,7 +201,7 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
                     padding: EdgeInsets.symmetric(vertical: 3, horizontal: 5),
                     decoration: BoxDecoration(
                         color: dictionaryModel?.category == 'investasi'
-                            ? Color.fromRGBO(65, 83, 181, 1)
+                            ? Color.fromRGBO(14, 17, 17, 1)
                             : Colors.white,
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(10),
@@ -218,7 +219,7 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
                     padding: EdgeInsets.symmetric(vertical: 3, horizontal: 5),
                     decoration: BoxDecoration(
                         color: dictionaryModel?.category == 'trading'
-                            ? Color.fromRGBO(65, 83, 181, 1)
+                            ? Color.fromRGBO(14, 17, 17, 1)
                             : Colors.white,
                         border: Border.all(color: Colors.grey.shade200)),
                     child: Text('Trading',
@@ -232,7 +233,7 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
                     padding: EdgeInsets.symmetric(vertical: 3, horizontal: 5),
                     decoration: BoxDecoration(
                         color: dictionaryModel?.category == 'kripto'
-                            ? Color.fromRGBO(65, 83, 181, 1)
+                            ? Color.fromRGBO(14, 17, 17, 1)
                             : Colors.white,
                         border: Border.all(color: Colors.grey.shade200)),
                     child: Text('Kripto',
@@ -246,7 +247,7 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
                     padding: EdgeInsets.symmetric(vertical: 3, horizontal: 5),
                     decoration: BoxDecoration(
                         color: dictionaryModel?.category == 'saham'
-                            ? Color.fromRGBO(65, 83, 181, 1)
+                            ? Color.fromRGBO(14, 17, 17, 1)
                             : Colors.white,
                         borderRadius: BorderRadius.only(
                           topRight: Radius.circular(10),
@@ -263,9 +264,6 @@ class _DictionaryDetailScreenState extends State<DictionaryDetailScreen> {
                 ],
               ),
             ),
-            // Divider(
-            //   color: Color.fromRGBO(65, 83, 181, 1),
-            // ),
             statusAd == StatusAd.loaded
                 ? Container(
                     margin: EdgeInsets.only(top: 15, left: 15, right: 15),

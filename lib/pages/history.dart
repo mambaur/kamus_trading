@@ -82,7 +82,7 @@ class _HistoryScreenState extends State<HistoryScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Riwayat'),
-        backgroundColor: Color.fromRGBO(65, 83, 181, 1),
+        backgroundColor: Color.fromRGBO(14, 17, 17, 1),
         centerTitle: true,
         elevation: 0,
         actions: [
@@ -113,7 +113,7 @@ class _HistoryScreenState extends State<HistoryScreen> {
           Expanded(
             child: RefreshIndicator(
               backgroundColor: Colors.white,
-              color: Color.fromRGBO(65, 83, 181, 1),
+              color: Color.fromRGBO(14, 17, 17, 1),
               displacement: 20,
               onRefresh: () => _refresh(),
               child: !isEmptyDictionary
@@ -127,7 +127,7 @@ class _HistoryScreenState extends State<HistoryScreen> {
                                   width: 30,
                                   height: 30,
                                   child: CircularProgressIndicator(
-                                      color: Color.fromRGBO(65, 83, 181, 1))),
+                                      color: Color.fromRGBO(14, 17, 17, 1))),
                             )
                           : Container(),
                       onLoadingStart: (page) async {
